@@ -1,23 +1,98 @@
 ---
 layout: page
 ---
+<h2> Cardiovascular & Respiratory </h2>
+
 {% for post in site.posts %}
 {% if post.category == page.category %}
+{% if post.platform == 'cardio' %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
+        <h4>            {{ post.title }}
+        </h4>
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h5 class="post-subtitle">
             {{ post.subtitle }}
-        </h3>
+        </h5>
         {% endif %}
     </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
-	<div class="notepad-index-post-tags" style="">
+    	<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div>
 </div>
 <hr>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<h2> B.R.A.I.N. </h2>
+
+{% for post in site.posts %}
+{% if post.category == page.category %}
+{% if post.platform == 'neuro' %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h4>            {{ post.title }}
+        </h4>
+        {% if post.subtitle %}
+        <h5 class="post-subtitle">
+            {{ post.subtitle }}
+        </h5>
+        {% endif %}
+    </a>
+    	<div class="notepad-index-post-tags" style="">
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	</div>
+</div>
+<hr>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<h2> Endocrinology & Diabetes </h2>
+
+{% for post in site.posts %}
+{% if post.category == page.category %}
+{% if post.platform == 'endo' %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h4>            {{ post.title }}
+        </h4>
+        {% if post.subtitle %}
+        <h5 class="post-subtitle">
+            {{ post.subtitle }}
+        </h5>
+        {% endif %}
+    </a>
+    	<div class="notepad-index-post-tags" style="">
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	</div>
+</div>
+<hr>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<h2> Reproduction & Development </h2>
+
+{% for post in site.posts %}
+{% if post.category == page.category %}
+{% if post.platform == 'repro' %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h4>            {{ post.title }}
+        </h4>
+        {% if post.subtitle %}
+        <h5 class="post-subtitle">
+            {{ post.subtitle }}
+        </h5>
+        {% endif %}
+    </a>
+    	<div class="notepad-index-post-tags" style="">
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	</div>
+</div>
+<hr>
+{% endif %}
 {% endif %}
 {% endfor %}
