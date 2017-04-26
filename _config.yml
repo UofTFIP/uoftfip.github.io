@@ -58,7 +58,7 @@ prose:
       - name: "category"
         field:
           element: "text"
-          label: "Project"
+          label: "Category"
           value: ""
     _posts:
       - name: "subtitle"
@@ -100,7 +100,7 @@ prose:
       - name: "category"
         field:
           element: "text"
-          label: "Project"
+          label: "Category"
           value: ""
       - name: "horizontal"
         field:

@@ -3,7 +3,7 @@ layout:     page
 title:      Abstracts
 subtitle:   Abstracts in this year's FIP
 header-img: "img/home-bg.jpg"
-category: Abstracts
+category: abstracts
 ---
 {% for post in site.posts %}
 {% if post.category == page.category %}
