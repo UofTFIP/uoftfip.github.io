@@ -15,32 +15,42 @@
   img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
   visible: true
 
-- name: Lucy Yeung
-  role: FIP Council | MSc. Student in Dr. Wheeler Lab
-  img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
+- name: Himaben Gohil
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Himaben.jpg
+  visible: true
+
+- name: Bona Kim
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Bona.jpg
+  visible: true
+
+- name: Feiya Li
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Feiya.jpg
+  visible: true
+
+- name: Neruja Loganathan
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Neruja.jpg
   visible: true
 
 - name: Moushumi Nath
-  role: FIP Council | MSc. Student in Dr. Wheeler Lab
-  img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Moushumi.jpg
   visible: true
 
-- name: x
-  role: FIP Council | MSc. Student in Dr. Wheeler Lab
-  img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
+- name: Vivian Szeto
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Vivian.jpg
   visible: true
 
-- name: Feiya
-  role: FIP Council | MSc. Student in Dr. Wheeler Lab
-  img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
+- name: Sami Tabbarah
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Sami.jpg
   visible: true
 
-- name: Vivian
-  role: FIP Council | MSc. Student in Dr. Wheeler Lab
-  img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
-  visible: true
-
-- name: Sami
-  role: FIP Council | MSc. Student in Dr. Wheeler Lab
-  img: http://sites.utoronto.ca/gasp/images/Hanna.jpg
+- name: Lucy Yeung
+  role: FIP Council | MSc. Student
+  img: http://sites.utoronto.ca/gasp/images/Lucy.jpg
   visible: true
