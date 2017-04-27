@@ -7,15 +7,12 @@ category: abstracts
 platform: 'neuro'
 subtitle: "S Stojanovski, D Felsky, JD Viviano, S Shahab, R Bangali, C Burton, P Szatmari, M Chakravarty, S Ameis, R Schachar, AN Voineskos, AL Wheeler"
 ---
-**POLYGENETIC RISK AND NEURAL SUBSTRATES OF ADHD SYMPTOMS DIFFER IN
-YOUTH WITH A HISTORY OF MILD TRAUMATIC BRAIN INJURY**
-
-**S Stojanovski**<sup>1,2</sup>**,** D Felsky <sup>3</sup>, JD Viviano <sup>3</sup>, S Shahab <sup>3</sup>,
+**S Stojanovski**<sup>1,2</sup>, D Felsky <sup>3</sup>, JD Viviano <sup>3</sup>, S Shahab <sup>3</sup>,
 R Bangali <sup>3</sup>, C Burton <sup>1,4</sup>, P Szatmari <sup>1,4</sup>, M Chakravarty <sup>5,6</sup>, S
 Ameis <sup>1,3,4,7</sup>, R Schachar <sup>1,4</sup>, AN Voineskos <sup>3,4</sup>, AL Wheeler
 
 *Neuroscience and Mental Health Department<sup>1</sup>, Hospital for Sick
-Children, Toronto, Ontario, Canada; Department of Physiology<sup>2<sup>,
+Children, Toronto, Ontario, Canada; Department of Physiology<sup>2</sup>,
 University of Toronto, Toronto, Ontario, Canada; Research Imaging
 Centre<sup>3</sup>, Centre for Addiction and Mental Health, Toronto, Ontario,
 Canada; Department of Psychiatry<sup>4</sup>, University of Toronto, Toronto,

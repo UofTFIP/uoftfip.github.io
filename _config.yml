@@ -4,8 +4,6 @@ description: The Department of Physiology's 37th Annual Research Symposium
 url: "https://uoftfip.github.io"
 
 
-
-
 # Secondary Parameters
 baseurl: ""
 header-img: "img/home-bg.jpg"
@@ -22,7 +20,7 @@ altmetric: false
 gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
+permalink: none
 paginate: 100
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 

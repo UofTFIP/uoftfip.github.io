@@ -1,12 +1,12 @@
 ---
 layout: page
 ---
-<img src="/img/FIP2017poster.png" width="600"/>
-<img src="/img/FIP2017lecture.png" width="600"/>
+<img src="/img/FIP2017poster.png" width="100%"/>
+<img src="/img/FIP2017lecture.png" width="100%"/>
 
 ## **Sponsors**
 ### __Systems Level__
-<img src="/img/create-fertility.png" width="600"/>
+<img src="/img/create-fertility.png" width="100%"/>
 
 
 

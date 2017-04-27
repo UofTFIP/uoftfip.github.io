@@ -1,43 +1,26 @@
 ---
 layout: page
 ---
-<h2> Cardiovascular & Respiratory </h2>
+<h2><ul>
+    <li><a href="#neuro"> B.R.A.I.N. </a></li>
+    <li><a href="#cardio"> Cardiovascular & Respiratory</a></li>
+    <li><a href="#endo"> Endocrinology & Diabetes</a></li>
+    <li><a href="#repro"> Reproduction & Development</a></li>
+</ul></h2>
 
-{% for post in site.posts %}
-{% if post.category == page.category %}
-{% if post.platform == 'cardio' %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4>            {{ post.title }}
-        </h4>
-        {% if post.subtitle %}
-        <h5 class="post-subtitle">
-            {{ post.subtitle }}
-        </h5>
-        {% endif %}
-    </a>
-    	<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	</div>
-</div>
-<hr>
-{% endif %}
-{% endif %}
-{% endfor %}
-
-<h2> B.R.A.I.N. </h2>
+<a name="neuro"><h2> B.R.A.I.N. </h2></a>
 
 {% for post in site.posts %}
 {% if post.category == page.category %}
 {% if post.platform == 'neuro' %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4>            {{ post.title }}
-        </h4>
+        <h3>            {{ post.title }}
+        </h3>
         {% if post.subtitle %}
-        <h5 class="post-subtitle">
+        <h4 class="post-subtitle">
             {{ post.subtitle }}
-        </h5>
+        </h4>
         {% endif %}
     </a>
     	<div class="notepad-index-post-tags" style="">
@@ -49,19 +32,44 @@ layout: page
 {% endif %}
 {% endfor %}
 
-<h2> Endocrinology & Diabetes </h2>
+
+<a name="cardio"><h2> Cardiovascular & Respiratory </h2></a>
+
+{% for post in site.posts %}
+{% if post.category == page.category %}
+{% if post.platform == 'cardio' %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h3>            {{ post.title }}
+        </h3>
+        {% if post.subtitle %}
+        <h4 class="post-subtitle">
+            {{ post.subtitle }}
+        </h4>
+        {% endif %}
+    </a>
+    	<div class="notepad-index-post-tags" style="">
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+	</div>
+</div>
+<hr>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<a name="endo"><h2> Endocrinology & Diabetes </h2></a>
 
 {% for post in site.posts %}
 {% if post.category == page.category %}
 {% if post.platform == 'endo' %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4>            {{ post.title }}
-        </h4>
+        <h3>            {{ post.title }}
+        </h3>
         {% if post.subtitle %}
-        <h5 class="post-subtitle">
+        <h4 class="post-subtitle">
             {{ post.subtitle }}
-        </h5>
+        </h4>
         {% endif %}
     </a>
     	<div class="notepad-index-post-tags" style="">
@@ -73,19 +81,21 @@ layout: page
 {% endif %}
 {% endfor %}
 
-<h2> Reproduction & Development </h2>
+
+
+<a name="repro"><h2> Reproduction & Development </h2></a>
 
 {% for post in site.posts %}
 {% if post.category == page.category %}
 {% if post.platform == 'repro' %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h4>            {{ post.title }}
-        </h4>
+        <h3>            {{ post.title }}
+        </h3>
         {% if post.subtitle %}
-        <h5 class="post-subtitle">
+        <h4 class="post-subtitle">
             {{ post.subtitle }}
-        </h5>
+        </h4>
         {% endif %}
     </a>
     	<div class="notepad-index-post-tags" style="">
