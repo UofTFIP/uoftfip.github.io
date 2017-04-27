@@ -6,6 +6,7 @@ header-img: "img/home-bg.jpg"
 category: abstracts
 platform: 'neuro'
 subtitle: "A. Guet-McCreight, X. Luo, R. Francavilla, L. Topolnik, F.K. Skinner"
+tags: brain oral
 ---
 **<sup>1,2</sup>A. Guet-McCreight**, <sup>3,4</sup>X. Luo, <sup>3,4</sup>R. Francavilla, <sup>3,4</sup>L.Topolnik, <sup>1,5,2</sup>F.K. Skinner
 

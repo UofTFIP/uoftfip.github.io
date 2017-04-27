@@ -5,6 +5,7 @@ EXTRACHROMOSOMAL (EC) TELOMERIC DNA POPULATIONS IN THE HUMAN SPERM
 GENOME"
 header-img: "img/home-bg.jpg"
 category: abstracts
+tags: repro poster
 platform: 'repro'
 subtitle: "P. Kurjanowicz, M. Komosa, S. Moskovtsev, and C. Librach"
 ---

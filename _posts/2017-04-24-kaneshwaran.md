@@ -6,6 +6,7 @@ header-img: "img/home-bg.jpg"
 category: abstracts
 platform: 'neuro'
 subtitle: "K. Kaneshwaran, F. Mostafa, G. Lei1, J. Wang, D.S. Wang, B.A. Orser"
+tags: brain poster
 ---
 **K. Kaneshwaran<sup>1</sup>(**), F. Mostafa<sup>1</sup>, G. Lei<sup>1</sup>, J. Wang<sup>1</sup>, D.S.
 Wang<sup>1</sup>, B.A. Orser<sup>1,2,3</sup>

@@ -5,6 +5,7 @@ A AND PALMITATE, BUT NOT 17β-ESTRADIOL, IN HYPOTHALAMIC CELL MODELS"
 header-img: "img/home-bg.jpg"
 category: abstracts
 platform: 'repro'
+tags: repro poster
 subtitle: "E. McIlwraith, N.Loganathan, D.D.Belsham"
 ---
 __<sup>1</sup>E. McIlwraith__, <sup>1</sup>N.Loganathan, <sup>1,2</sup>D.D.Belsham

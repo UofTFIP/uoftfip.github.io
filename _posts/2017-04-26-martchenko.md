@@ -4,6 +4,7 @@ title: "SUPPRESSING THE CORE CLOCK GENE BMAL1 WITH PALMITATE IS ASSOCIATED
 WITH IMPAIRED GLUCAGON-LIKE PEPTIDE-1 SECRETION"
 header-img: "img/home-bg.jpg"
 category: abstracts
+tags: endo oral
 platform: 'endo'
 subtitle: "A. Martchenko, R. Oh, P. Gurges, P.L. Brubaker"
 ---
