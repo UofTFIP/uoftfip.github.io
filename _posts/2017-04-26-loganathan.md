@@ -5,7 +5,7 @@ FEEDING-RELATED NPY/AGRP NEURONS"
 header-img: "img/home-bg.jpg"
 category: abstracts
 tags: endo poster
-platform: 'neuro'
+platform: 'endo'
 subtitle: "N. Loganathan, E. McIlwraith and D.D. Belsham."
 ---
 **<sup>1</sup>N. Loganathan**, <sup>1</sup>E. McIlwraith and <sup>1,2</sup>D.D. Belsham.
