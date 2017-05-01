@@ -35,7 +35,7 @@ layout: page
 
 <a name="cardio"><h2> Cardiovascular & Respiratory </h2></a>
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'cardio' %}
 <div class="post-preview">
@@ -59,7 +59,7 @@ layout: page
 
 <a name="endo"><h2> Endocrinology & Diabetes </h2></a>
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'endo' %}
 <div class="post-preview">
@@ -85,7 +85,7 @@ layout: page
 
 <a name="repro"><h2> Reproduction & Development </h2></a>
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'repro' %}
 <div class="post-preview">
