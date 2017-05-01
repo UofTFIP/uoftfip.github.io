@@ -2,7 +2,7 @@
 layout: post
 title: "POLYGENETIC RISK AND NEURAL SUBSTRATES OF ADHD SYMPTOMS DIFFER IN
 YOUTH WITH A HISTORY OF MILD TRAUMATIC BRAIN INJURY"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 platform: 'neuro'
 subtitle: "S Stojanovski, D Felsky, JD Viviano, S Shahab, R Bangali, C Burton, P Szatmari, M Chakravarty, S Ameis, R Schachar, AN Voineskos, AL Wheeler"

@@ -2,7 +2,7 @@
 layout: post
 title: "DISINHIBITION OF PAIN PATHWAYS IN THE SPINAL CORD MEDIATES NEUROPATHIC
 PAIN HYPERSENSITIVITY IN RODENTS OF BOTH SEXES "
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 platform: 'neuro'
 subtitle: "J.C.S. Mapplebeck, L-E. Lorenzo, K.Y. Lee, C. Guthier, Y. De Koninck, S.A. Prescott & M.W. Salter"

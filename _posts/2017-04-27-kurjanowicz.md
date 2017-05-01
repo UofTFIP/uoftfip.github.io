@@ -3,7 +3,7 @@ layout: post
 title: "APPLICATION OF THE HALOFISH ASSAY TO DISTINGUISH CHROMOSOMAL (CHR) AND
 EXTRACHROMOSOMAL (EC) TELOMERIC DNA POPULATIONS IN THE HUMAN SPERM
 GENOME"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 tags: repro poster
 platform: 'repro'

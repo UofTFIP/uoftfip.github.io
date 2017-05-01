@@ -2,7 +2,7 @@
 layout: post
 title: "DEXMEDETOMIDINE REVERSES POSTANESTHETIC MEMORY DEFICITS VIA AN
 ERK-BDNF PATHWAY"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 platform: 'neuro'
 subtitle: "K. Kaneshwaran, F. Mostafa, G. Lei1, J. Wang, D.S. Wang, B.A. Orser"

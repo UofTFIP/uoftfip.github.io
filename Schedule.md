@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Schedule
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 ---
 <p><strong>37</strong><sup><strong>th</strong></sup><strong> Annual Frontiers in Physiology Research Symposium</strong></p>
 <p><strong>Program - Tuesday May 9</strong><sup><strong>th</strong></sup><strong>, 2017</strong></p>

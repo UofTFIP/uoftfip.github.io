@@ -2,7 +2,7 @@
 layout: post
 title: "THE EFFECT OF BISPHENOL A AND BISPHENOL S ON HYPOTHALAMIC
 FEEDING-RELATED NPY/AGRP NEURONS"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 tags: endo poster
 platform: 'endo'

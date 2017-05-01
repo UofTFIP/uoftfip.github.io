@@ -2,7 +2,7 @@
 layout: post
 title: "USING COMPUTATIONAL MODELING TO ESTIMATE SYNAPTIC RECEPTOR DENSITIES
 ALONG HIPPOCAMPAL CA1 INTERNEURON SPECIFIC 3 CELL DENDRITES"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 platform: 'neuro'
 subtitle: "A. Guet-McCreight, X. Luo, R. Francavilla, L. Topolnik, F.K. Skinner"

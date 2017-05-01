@@ -2,7 +2,7 @@
 layout: post
 title: "REGULATION OF THE NOVEL REPRODUCTIVE PEPTIDE, PHOENIXIN, BY BISPHENOL
 A AND PALMITATE, BUT NOT 17β-ESTRADIOL, IN HYPOTHALAMIC CELL MODELS"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 platform: 'repro'
 tags: repro poster

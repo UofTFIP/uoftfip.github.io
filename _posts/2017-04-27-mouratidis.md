@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Single Course of Prenatal Glucocorticoid Treatment Modifies the Stress Response and Pituitary Gene Expression Across Two Generations"
-header-img: "img/home-bg.jpg"
+header-img: "img/banner.png"
 category: abstracts
 platform: 'repro'
 tags: repro poster
