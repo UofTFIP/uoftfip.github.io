@@ -10,7 +10,7 @@ layout: page
 
 <a name="neuro"><h2> B.R.A.I.N. </h2></a>
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'neuro' %}
 <div class="post-preview">
