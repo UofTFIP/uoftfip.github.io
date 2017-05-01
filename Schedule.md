@@ -35,45 +35,45 @@ header-img: "img/banner.png"
 <td width="155">
 <p>9:00 AM &ndash; 9:15 AM</p>
 </td>
-<td width="298">
-<p>Opening Remarks</p>
-</td>
-<td width="231">
-<p>JJR Macleod Auditorium</p>
-</td>
-</tr>
+    <td width="298">
+    <p>Opening Remarks</p>
+    </td>
+    <td width="231">
+    <p>JJR Macleod Auditorium</p>
+    </td>
+    </tr>
 <tr>
 <td bgcolor="#d3dfee" width="155">
 <p>9:15 AM &ndash; 10:10 AM</p>
 </td>
-<td bgcolor="#d3dfee" width="298">
-<p>Oral Presentation<sup>1</sup> Session 1</p>
-</td>
-<td bgcolor="#d3dfee" width="231">
-<p>JJR Macleod Auditorium</p>
-</td>
+    <td bgcolor="#d3dfee" width="298">
+    <p><a href="{{ site.baseurl }}/search/index.html#oral-session-1">Oral Presentation<sup>1</sup> Session 1</a></p>
+    </td>
+    <td bgcolor="#d3dfee" width="231">
+    <p>JJR Macleod Auditorium</p>
+    </td>
 </tr>
 <tr>
 <td width="155">
 <p>10:10 AM &ndash; 10:20 AM</p>
 </td>
-<td width="298">
-<p>Refreshments Break</p>
-</td>
-<td width="231">
-<p>Lobby of JJR Macleod Auditorium</p>
-</td>
+    <td width="298">
+    <p>Refreshments Break</p>
+    </td>
+    <td width="231">
+    <p>Lobby of JJR Macleod Auditorium</p>
+    </td>
 </tr>
 <tr>
 <td bgcolor="#d3dfee" width="155">
 <p>10:20 AM &ndash; 11:20 AM</p>
 </td>
-<td bgcolor="#d3dfee" width="298">
-<p>Poster Presentation Session 1</p>
-</td>
-<td bgcolor="#d3dfee" width="231">
-<p>Naylor Student Commons<sup>2</sup></p>
-</td>
+    <td bgcolor="#d3dfee" width="298">
+    <p><a href="{{ site.baseurl }}/search/index.html#poster-session-1">Poster Presentation Session 1</a></p>
+    </td>
+    <td bgcolor="#d3dfee" width="231">
+    <p>Naylor Student Commons<sup>2</sup></p>
+    </td>
 </tr>
 <tr>
 <td width="155">
@@ -135,7 +135,7 @@ header-img: "img/banner.png"
 <p>1:20 PM &ndash; 2:20 PM</p>
 </td>
 <td bgcolor="#d3dfee" width="298">
-<p>Poster Presentation Session 2</p>
+<p><a href="{{ site.baseurl }}/search/index.html#poster-session-2">Poster Presentation Session 2</a></p>
 </td>
 <td bgcolor="#d3dfee" width="231">
 <p>Naylor Student Commons<sup>2</sup></p>
@@ -155,7 +155,7 @@ header-img: "img/banner.png"
 <p>2:30 PM &ndash; 3:40 PM</p>
 </td>
 <td bgcolor="#d3dfee" width="298">
-<p>Oral Presentation<sup>1</sup> Session 2</p>
+<p><a href="{{ site.baseurl }}/search/index.html#oral-session-2">Oral Presentation<sup>1</sup> Session 2</a></p>
 </td>
 <td bgcolor="#d3dfee" width="231">
 <p>JJR Macleod Auditorium</p>
@@ -177,7 +177,7 @@ header-img: "img/banner.png"
 <p>3:50 PM &ndash; 4:45 PM</p>
 </td>
 <td bgcolor="#d3dfee" width="298">
-<p>Oral Presentation<sup>1</sup> Session 3</p>
+<p><a href="{{ site.baseurl }}/search/index.html#oral-session-3">Oral Presentation<sup>1</sup> Session 3</a></p>
 </td>
 <td bgcolor="#d3dfee" width="231">
 <p>JJR Macleod Auditorium</p>
