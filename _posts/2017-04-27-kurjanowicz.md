@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "APPLICATION OF THE HALOFISH ASSAY TO DISTINGUISH CHROMOSOMAL (CHR) AND
+title: "R6 - APPLICATION OF THE HALOFISH ASSAY TO DISTINGUISH CHROMOSOMAL (CHR) AND
 EXTRACHROMOSOMAL (EC) TELOMERIC DNA POPULATIONS IN THE HUMAN SPERM
 GENOME"
 header-img: "img/banner.png"
 category: abstracts
-tags: repro poster
+tags: repro poster-session-1
 platform: 'repro'
 subtitle: "P. Kurjanowicz, M. Komosa, S. Moskovtsev, and C. Librach"
 ---

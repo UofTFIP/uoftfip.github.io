@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "THE EFFECT OF BISPHENOL A AND BISPHENOL S ON HYPOTHALAMIC
+title: "E4 - THE EFFECT OF BISPHENOL A AND BISPHENOL S ON HYPOTHALAMIC
 FEEDING-RELATED NPY/AGRP NEURONS"
 header-img: "img/banner.png"
 category: abstracts
-tags: endo poster
+tags: endo poster-session-1
 platform: 'endo'
 subtitle: "N. Loganathan, E. McIlwraith and D.D. Belsham."
 ---

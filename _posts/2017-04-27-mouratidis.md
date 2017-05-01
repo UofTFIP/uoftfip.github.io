@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A Single Course of Prenatal Glucocorticoid Treatment Modifies the Stress Response and Pituitary Gene Expression Across Two Generations"
+title: "R11 - A Single Course of Prenatal Glucocorticoid Treatment Modifies the Stress Response and Pituitary Gene Expression Across Two Generations"
 header-img: "img/banner.png"
 category: abstracts
 platform: 'repro'
-tags: repro poster
+tags: repro poster-session-1
 subtitle: "A. Mouratidis, V.G. Moisiadis, A. Kostaki, S.G. Matthews"
 ---
 __<sup>1</sup>A. Mouratidis__, <sup>1</sup>V.G. Moisiadis, <sup>1</sup>A. Kostaki, <sup>1,2</sup>S.G.

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "DEXMEDETOMIDINE REVERSES POSTANESTHETIC MEMORY DEFICITS VIA AN
+title: "N8 - DEXMEDETOMIDINE REVERSES POSTANESTHETIC MEMORY DEFICITS VIA AN
 ERK-BDNF PATHWAY"
 header-img: "img/banner.png"
 category: abstracts
 platform: 'neuro'
 subtitle: "K. Kaneshwaran, F. Mostafa, G. Lei1, J. Wang, D.S. Wang, B.A. Orser"
-tags: brain poster
+tags: brain poster-session-2
 ---
 **K. Kaneshwaran<sup>1</sup>(**), F. Mostafa<sup>1</sup>, G. Lei<sup>1</sup>, J. Wang<sup>1</sup>, D.S.
 Wang<sup>1</sup>, B.A. Orser<sup>1,2,3</sup>

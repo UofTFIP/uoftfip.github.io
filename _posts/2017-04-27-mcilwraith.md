@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "REGULATION OF THE NOVEL REPRODUCTIVE PEPTIDE, PHOENIXIN, BY BISPHENOL
+title: "R8 - REGULATION OF THE NOVEL REPRODUCTIVE PEPTIDE, PHOENIXIN, BY BISPHENOL
 A AND PALMITATE, BUT NOT 17β-ESTRADIOL, IN HYPOTHALAMIC CELL MODELS"
 header-img: "img/banner.png"
 category: abstracts
 platform: 'repro'
-tags: repro poster
+tags: repro poster-session-2
 subtitle: "E. McIlwraith, N.Loganathan, D.D.Belsham"
 ---
 __<sup>1</sup>E. McIlwraith__, <sup>1</sup>N.Loganathan, <sup>1,2</sup>D.D.Belsham
