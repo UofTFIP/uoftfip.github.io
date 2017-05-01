@@ -8,7 +8,7 @@ url: "https://uoftfip.github.io"
 baseurl: ""
 header-img: "img/banner.png"
 headercolor: "#FFFFFF"
-logo: img/logos/logo.png
+logo: "img/logos/logo.png"
 
 # Tertiary Parameters
 github_username:  uoftfip
