@@ -2,8 +2,8 @@
 layout: page
 ---
 <h1> Important Announcements </h1>
-<img alt="" src="img/fip_announcements1.png" width=100% />
-<img alt="" src="img/fip_announcements2.png" width=100% />
+<img src="img/fip_announcements1.png" width="100%" />
+<img src="img/fip_announcements2.png" width="100%" />
 
 <img src="/img/FIP2017poster.png" width="100%"/>
 <img src="/img/FIP2017lecture.png" width="100%"/>
