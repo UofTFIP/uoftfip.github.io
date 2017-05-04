@@ -32,7 +32,7 @@ header-img: "img/banner.png"
 {% assign tags_list = nil %}
 </div></ul>
 
-{% for tag in site.tags reversed %}
+{% for tag in site.tags %}
   <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}
