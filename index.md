@@ -1,6 +1,12 @@
 ---
 layout: page
 ---
+
+## FIP Recap Video
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/HKkefvmOOFI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
 <img src="/img/FIP2017poster.png" width="100%"/>
 <img src="/img/FIP2017lecture.png" width="100%"/>
 
