@@ -97,7 +97,6 @@ class Abstract(Attendee):
             authors_parsed.append(author)
         self.authors_parsed = ", ".join(authors_parsed)
         self.just_authors = ', '.join([i[0] for i in self.authors])
-        print self.affiliations
         self.affiliations_parsed = u"__{}__\n".format(u"; ".join(self.affiliations))
         self.header = '''---
 layout: post
