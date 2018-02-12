@@ -1,6 +1,6 @@
 # Site settings
-title: Frontiers in Physiology 2017
-description: The Department of Physiology's 37th Annual Research Symposium
+title: Frontiers in Physiology 2018
+description: The Department of Physiology's 38th Annual Research Symposium
 url: "https://uoftfip.github.io"
 
 
@@ -16,6 +16,7 @@ facebook_username: UofTGASP
 project_repository: uoftfip.github.io
 g-analytics: UA-71906708-3
 altmetric: false
+
 
 # Build settings
 gems: [jekyll-paginate]
@@ -35,6 +36,9 @@ defaults:
     values:
       layout: "project"
       header-img: "img/banner.png"
+
+#FIP Settings
+levels: ['Planning Committee', 'GASP', 'Judges', 'Presenters', ]
 
 # Prose Settings
 prose:

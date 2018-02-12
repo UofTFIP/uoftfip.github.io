@@ -13,6 +13,7 @@ layout: page
 {% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'neuro' %}
+{% if post.visible %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3>            {{ post.title }}
@@ -28,6 +29,7 @@ layout: page
 	</div>
 </div>
 <hr>
+{% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -38,6 +40,7 @@ layout: page
 {% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'cardio' %}
+{% if post.visible %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3>            {{ post.title }}
@@ -53,6 +56,7 @@ layout: page
 	</div>
 </div>
 <hr>
+{% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -62,6 +66,7 @@ layout: page
 {% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'endo' %}
+{% if post.visible %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3>            {{ post.title }}
@@ -77,6 +82,7 @@ layout: page
 	</div>
 </div>
 <hr>
+{% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -88,6 +94,7 @@ layout: page
 {% for post in site.posts reversed %}
 {% if post.category == page.category %}
 {% if post.platform == 'repro' %}
+{% if post.visible %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3>            {{ post.title }}
@@ -103,6 +110,7 @@ layout: page
 	</div>
 </div>
 <hr>
+{% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
