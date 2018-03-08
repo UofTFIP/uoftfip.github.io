@@ -11,12 +11,7 @@ header-img: "img/banner.jpg"
 	<br>
 	{% for member in site.data.members %}
 		{% if member.type == i %}
-			{% if member.img %}
-			<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
-			{% endif %}
 			<h3>{{ member.name }} | {{ member.platform }}</h3>
-			</br>
-			<br>
 			</br>
 		{% endif %}
 	{% endfor %}
