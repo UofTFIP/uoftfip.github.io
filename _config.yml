@@ -6,9 +6,9 @@ url: "https://uoftfip.github.io"
 
 # Secondary Parameters
 baseurl: ""
-header-img: "img/banner.png"
+header-img: "img/banner.jpg"
 headercolor: "#FFFFFF"
-logo: "img/logos/logo.png"
+#logo: "img/logos/logo.png"
 
 # Tertiary Parameters
 github_username:  uoftfip
@@ -35,7 +35,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/banner.png"
+      header-img: "img/banner.jpg"
 
 #FIP Settings
 levels: ['Planning Committee', 'GASP', 'Judges', 'Presenters', ]

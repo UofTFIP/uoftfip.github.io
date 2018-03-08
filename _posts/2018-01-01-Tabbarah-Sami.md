@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Investigating the role of COG5 and SRD5A3 gene mutations in inducing ER stress and causing retinal degeneration"
+header-img: "img/banner.jpg"
+category: abstracts
+platform: "neuro"
+subtitle: "Sami Tabbarah, Jason Charish, Shuning Li, Yui Yin, Erika Tavares, Ajoy Vincent, Elise Heon, Philippe Monnier"
+tags: 
+session_id: nan
+visible: false
+---
+**<sup>1</sup>Sami Tabbarah**, <sup>2</sup>Jason Charish, <sup>2</sup>Shuning Li, <sup>2</sup>Yui Yin, <sup>3</sup>Erika Tavares, <sup>3</sup>Ajoy Vincent, <sup>1,\*</sup>Elise Heon, <sup>1,\*</sup>Philippe Monnier
+
+__1 Department of Physiology, University of Toronto; 2 Program of Genetics and Genome Biology, The Hospital for Sick Children; 3 Department of Ophthalmology and Vision Sciences, The Hospital for Sick Children
+\*Co-Last Authors__
+
+Retinitis pigmentosa (RP) is an inherited, heterogenous vision disorder caused by various gene mutations, many of which remain unknown. RP is characterized by the progressive degeneration of rod photoreceptors, causing loss of night and peripheral vision, and ultimately complete blindness. Recently identified autosomal recessive mutations in COG5 and SRD5A3 found in several individuals have been associated with Leber’s congenital amaurosis, a severe form of RP that manifests at infancy. Steroid 5-alpha reductase, subunit 3 (SRD5A3) is an endoplasmic reticulum (ER)-resident protein that plays an essential role in forming the N-glycans attached to nascent proteins during post-translational modification. Conserved oligomeric Golgi (COG) complex is a multi-subunit protein that plays a key role in retrograde transport of vesicles throughout the Golgi, ensuring proper trafficking of glycosylation enzymes to their respective Golgi cisternae. Glycosylation is important for proper protein folding, function, and stability. A disruption in either SRD5A3 or COG5 will disrupt protein glycosylation, causing an aggregation of misfolded proteins in the ER and activating the unfolded protein response (UPR). Failure of the UPR to restore protein homeostasis will initiate the terminal response, leading to apoptosis. Tagged DNA constructs of COG5, SRD5A3, and their human mutant variants have been cloned to assess the effect of the mutations on protein localization, cell survival, and protein trafficking. Transfection of GFP-tagged SRD5A3 in vitro and assessment of protein localization and cellular morphology through immunocytochemistry demonstrated a clear mislocalization of the mutant variant. GFP-tagged mutant COG5 led to a disruption in Golgi morphology, as well as a mislocalization of the protein beyond the Golgi. Western blot analysis of COG5¬-transfected cells revealed a significant increase in two ER stress markers, PERK and calnexin, in cells that have been co-transfected with the two identified, compound heterozygote, COG5 mutant variants, in comparison to single-mutant transfections and wildtype transfection. In vivo analysis will be performed by transfecting the DNA constructs in mouse retinas, along with ER stress regulatory drugs, to confirm the mechanism of cell death that results in photoreceptor degeneration. This study will contribute to the understanding of the mechanism leading to RP and is required for the eventual development of therapeutic opportunities. 

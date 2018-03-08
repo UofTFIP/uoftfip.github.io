@@ -35,7 +35,7 @@ def make_entry(row):
     if row['Submitting'] == 'Yes':
         attendee = Abstract(row['First Name'], row['Last Name'], row['Email'],
             row['Status'], row['Platform'], row['Short_Platform'], row['Position'],
-            row['Session_ID'], row['Authors'], row['Affiliations'], row['Abstract Title'], row['Abstract'],row['Fip Comm'])
+            row['Session_ID'], row['Authors'], row['Affiliations'], row['Abstract Title'], row['Abstract'],row['Fip Comm'], row['Preference'], row['Required'])
     else:
         attendee = Attendee(row['First Name'], row['Last Name'], row['Email'],
             row['Status'], row['Platform'], row['Short_Platform'], row['Position'], row['Fip Comm'])
@@ -73,18 +73,23 @@ class Attendee(object):
 
 class Abstract(Attendee):
     def __init__(self, first, last, email, status, platform, platform_code, position,
-                    session, authors, affiliations, title, abstract, comm):
+                    session, authors, affiliations, title, abstract, comm, pref, req):
         Attendee.__init__(self, first, last, email, status, platform, platform_code, position, comm)
         #false set to visible is false, true if visible true
         self.pending = self.status.lower() != 'pending'
         self.session = session
+        #presentation preference
+        self.pref = 'oral' if 'poster only' not in pref.lower() else 'poster'
+        self.req = True if 'yes' in req.lower() else False
+
         if self.pending:
             self.tags = ' '.join(self.status.lower(), self.platform_code)
         else:
             self.tags = ''
         #parse authors/affiliations
+        authors = authors.replace("*", "\*").replace(", ", ",")
         self.authors = [i.strip().split(',') for i in authors.split(';')]
-        self.affiliations = [i.strip().rstrip(';') for i in affiliations.split(";")]
+        self.affiliations = [i.strip().rstrip(';') for i in affiliations.replace("*", "\*").split(";")]
         self.title = title
         self.abstract = abstract
         authors_parsed = []
@@ -101,7 +106,7 @@ class Abstract(Attendee):
         self.header = '''---
 layout: post
 title: "{}"
-header-img: "img/banner.png"
+header-img: "img/banner.jpg"
 category: abstracts
 platform: "{}"
 subtitle: "{}"

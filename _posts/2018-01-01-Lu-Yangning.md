@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How an asymmetric L1 motor circuit generates symmetrical motor output"
-header-img: "img/banner.png"
+header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Yangning Lu, Asuka Guan, Daniel Witvliet, Ben Mulcahy, Jin Meng, Jun Meng, Quan Wen, Aravinthan Samuel, Mei Zhen"

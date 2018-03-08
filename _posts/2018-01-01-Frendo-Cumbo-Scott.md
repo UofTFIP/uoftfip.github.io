@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FIP abstract submission "
-header-img: "img/banner.png"
+header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Scott Frendo-Cumbo, Amira Klip"

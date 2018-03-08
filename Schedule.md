@@ -1,6 +1,6 @@
 ---
 layout:     page
 title:      Schedule
-header-img: "img/banner.png"
+header-img: "img/banner.jpg"
 ---
 Check back soon for more information
