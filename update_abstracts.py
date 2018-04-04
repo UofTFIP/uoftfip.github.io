@@ -54,7 +54,7 @@ class Attendee(object):
         self.platform = platform
         self.platform_code = platform_code
         self.position = position
-        self.committee = comm
+        self.committee = unicode(comm)
         if self.committee in ['GASP VP, Co-Organizer', 'FIP Committee']:
             self.img = 'http://sites.utoronto.ca/gasp/images/{}.jpg'.format(self.first.lower())
             self.blurb = '''- name: "{} {}, {}"
@@ -159,8 +159,9 @@ def main():
     #make attendee list
     blurbs = [i.blurb for i in attendees if hasattr(i, 'blurb')]
     members = ''.join(blurbs)
-    with open("_data/members.yml", 'w') as f:
-        f.write(members)
+    #with open("_data/members.yml", 'w') as f:
+    #    f.write(members)
+    print "# of abstracts:", len(abstracts)
 
 
 if __name__ == '__main__':
