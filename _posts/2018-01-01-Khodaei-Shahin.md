@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Shahin Khodaei, Yu-Feng Xie, Dian-Shi Wang, Beverley Orser"
-tags: 
+tags: poster neuro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Shahin Khodaei**, <sup>1</sup>Yu-Feng Xie, <sup>1</sup>Dian-Shi Wang, <sup>1,2,3</sup>Beverley Orser
 

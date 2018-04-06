@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Zivit Fesler, Patricia L Brubaker"
-tags: 
-session_id: nan
-visible: false
+tags: oral endo
+session_id: 4-1
+visible: true
 ---
 **<sup>1</sup>Zivit Fesler**, <sup>1,2</sup>Patricia L Brubaker
 

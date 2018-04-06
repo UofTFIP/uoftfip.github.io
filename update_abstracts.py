@@ -83,13 +83,19 @@ class Abstract(Attendee):
         self.req = True if 'yes' in req.lower() else False
 
         if self.pending:
-            self.tags = ' '.join(self.status.lower(), self.platform_code)
+            self.tags = ' '.join([self.status.lower(), self.platform_code])
         else:
             self.tags = ''
         #parse authors/affiliations
-        authors = authors.replace("*", "\*").replace(", ", ",")
-        self.authors = [i.strip().split(',') for i in authors.split(';')]
-        self.affiliations = [i.strip().rstrip(';') for i in affiliations.replace("*", "\*").split(";")]
+        try:
+            authors = authors.replace("*", "\*").replace(", ", ",")
+            self.authors = [i.strip().split(',') for i in authors.split(';')]
+            self.affiliations = [i.strip().rstrip(';') for i in affiliations.replace("*", "\*").split(";")]
+
+        except AttributeError:
+            print 'No Authors'
+            self.authors = ['Empty']
+            self.affiliations = ['empty']
         self.title = title
         self.abstract = abstract
         authors_parsed = []

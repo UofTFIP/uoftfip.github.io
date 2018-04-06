@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Hima Gohil, Ashley Untereiner, Alpana Bhattacharjee, Feihan Dai, Ying Liu, and Michael Wheeler"
-tags: 
+tags: poster endo
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Hima Gohil**, <sup>1</sup>Ashley Untereiner, <sup>1</sup>Alpana Bhattacharjee, <sup>1</sup>Feihan Dai, <sup>1</sup>Ying Liu, <sup>1.</sup>and Michael Wheeler
 

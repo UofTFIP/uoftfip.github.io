@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Theresa Chow, Jennifer Whiteley, Ian Rogers"
-tags: 
-session_id: nan
-visible: false
+tags: oral repro
+session_id: 4-2
+visible: true
 ---
 **<sup>1,2</sup>Theresa Chow**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 

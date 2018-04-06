@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
-The 38th annual Frontiers in Physiology (FIP) Research Symposium is just around the corner. FIP is the Department of Physiology's annual research day, bringing together researchers from all of our platforms. This year, FIP will be held on May 4, 2018 at the MaRS Auditorium. **Abstract submission has now closed, but registration to attend is still open.**
+<img src='./img/poster.png' width="100%" />
+
+Frontiers in Physiology (FIP) is the Department of Physiology's annual research day, bringing together researchers from all of our platforms. This year, the 38ths annual FIP will be held on May 4, 2018 at the MaRS Auditorium. **Abstract submission has now closed, but registration to attend is still open.**
 
 [38th Annual FIP Registration Form](https://goo.gl/forms/SuEQwKds8TEkZfsR2)
 

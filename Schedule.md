@@ -3,4 +3,4 @@ layout:     page
 title:      Schedule
 header-img: "img/banner.jpg"
 ---
-Check back soon for more information
+<img src="./img/Program.png" width="100%" />

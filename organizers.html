@@ -5,14 +5,18 @@ description: "FIP2018 Planning Committee and Contributors"
 header-img: "img/banner.jpg"
 ---
 <hr>
+<div class="row">
+			{% for i in site.levels %}
+				<div class="col-md-6">
+				<h1>{{ i }}</h1>
+				<br>
+				{% for member in site.data.members %}
+					{% if member.type == i %}
+						{{ member.name }}
+						</br>
+					{% endif %}
+				{% endfor %}
+				</div>
+			{% endfor %}
 
-{% for i in site.levels %}
-	<h1>{{ i }}</h1>
-	<br>
-	{% for member in site.data.members %}
-		{% if member.type == i %}
-			<h3>{{ member.name }} | {{ member.platform }}</h3>
-			</br>
-		{% endif %}
-	{% endfor %}
-{% endfor %}
+	</div>

@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Alexandre Martchenko, Matthew Clemenzi, Patrick, Patricia L. Brubaker"
-tags: 
+tags: poster endo
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Alexandre Martchenko**, <sup>1</sup>Matthew Clemenzi, <sup>Gurges,1</sup>Patrick, <sup>1,2</sup>Patricia L. Brubaker
 

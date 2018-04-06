@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Elena Sidorova, Richard Logan, James Eubanks 1"
 tags: 
-session_id: nan
+session_id: 2-2
 visible: false
 ---
 **<sup>1,2,3</sup>Elena Sidorova**, <sup>2</sup>Richard Logan, <sup>2,3</sup>James Eubanks 1

@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Andrada Naghi, Güínever Eustáquio Do Império, Stephen G Matthews"
-tags: 
+tags: poster neuro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Andrada Naghi**, <sup>1</sup>Güínever Eustáquio Do Império, <sup>1,2,3</sup>Stephen G Matthews
 
