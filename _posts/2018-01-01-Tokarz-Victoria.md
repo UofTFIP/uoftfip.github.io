@@ -4,14 +4,14 @@ title: "Vulnerability of insulin signal transduction during insulin resistance a
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "E"
+subtitle: "Victoria Tokarz, Javier Jaldin-Fincati, Zhi Liu, Amira Klip"
 tags: poster endo
 session_id: nan
 visible: true
 ---
-**<sup>m,p,t,y</sup>E**
+**<sup>1,2</sup>Victoria Tokarz**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1</sup>Zhi Liu, <sup>1,2</sup>Amira Klip
 
-__empty__
+__1 Cell Biology, Hospital for Sick Children; 2 Department of Physiology, University of Toronto, Toronto, ON, Canada__
 
 
 Introduction: Skeletal muscle insulin resistance is a consequence of obesity and a requisite precursor of type 2 diabetes (T2D). Glucose enters the muscle cell through the GLUT4 glucose transporter that undergoes redistribution to the cell surface in response to insulin (GLUT4 translocation). The activation of this transport machinery is the rate-limiting step in muscle glucose metabolism and its failure is implicated in the development of insulin resistance.

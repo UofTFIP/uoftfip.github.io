@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Frankie Poon, Roman Korytnikov, Cristina Nostro"
-tags: 
+tags: poster endo
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1,2,3</sup>Frankie Poon**, <sup>1,2,3</sup>Roman Korytnikov, <sup>1,2,3</sup>Cristina Nostro
 

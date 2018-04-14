@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Amanda Fantin, Jennifer Whiteley, Ian Rogers"
-tags: 
+tags: poster repro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1,2</sup>Amanda Fantin**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 

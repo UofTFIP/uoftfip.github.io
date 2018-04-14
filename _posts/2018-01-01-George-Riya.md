@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Riya George, Michelle French"
-tags: 
+tags: poster neuro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Riya George**, <sup>1</sup>Michelle French
 

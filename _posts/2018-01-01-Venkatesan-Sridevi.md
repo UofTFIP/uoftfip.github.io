@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Sridevi Venkatesan, Daniel W. Sparks, Evelyn K. Lambe"
-tags: 
+tags: poster neuro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Sridevi Venkatesan**, <sup>1</sup>Daniel W. Sparks, <sup>1,2</sup>Evelyn K. Lambe
 

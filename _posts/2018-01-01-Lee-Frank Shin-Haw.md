@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Shin-Haw Lee, Sina Hadipour-Lakmehsari, Natalie Gibb, Allen C.T. Teng, Tetsuaki Miyake, Jake Cosme, Jessica C. Yu, Peter Liu, Filio Billia, Rodrigo Fernandez-Gonzalez, Igor Stagljar, Parveen Sharma, Thomas Kislinger, Ian C. Scott, Anthony O. Gramolini"
-tags: 
+tags: oral cardio
 session_id: 3-4
-visible: false
+visible: true
 ---
 **<sup>1,2</sup>Shin-Haw Lee**, <sup>1,2</sup>Sina Hadipour-Lakmehsari, <sup>1,3,4</sup>Natalie Gibb, <sup>1,2</sup>Allen C.T. Teng, <sup>2,11</sup>Tetsuaki Miyake, <sup>1,2</sup>Jake Cosme, <sup>1,7</sup>Jessica C. Yu, <sup>5</sup>Peter Liu, <sup>8</sup>Filio Billia, <sup>1,3,7,10</sup>Rodrigo Fernandez-Gonzalez, <sup>6</sup>Igor Stagljar, <sup>2,12</sup>Parveen Sharma, <sup>9</sup>Thomas Kislinger, <sup>3,4</sup>Ian C. Scott, <sup>1,2</sup>Anthony O. Gramolini
 

@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Xavier Lee, Allen C.T. Teng, Anthony Gramolini"
-tags: 
+tags: poster cardio
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1,2</sup>Xavier Lee**, <sup>1,2</sup>Allen C.T. Teng, <sup>1,2</sup>Anthony Gramolini
 

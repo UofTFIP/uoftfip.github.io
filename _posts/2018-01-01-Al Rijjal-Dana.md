@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Dana Al Rijjal, Ying Liu, Michael Wheeler"
-tags: 
+tags: oral endo
 session_id: 3-1
-visible: false
+visible: true
 ---
 **<sup>1</sup>Dana Al Rijjal**, <sup>1</sup>Ying Liu, <sup>1</sup>Michael Wheeler
 

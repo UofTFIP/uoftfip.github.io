@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Emma McIlwraith, Neruja Loganathan, Denise D. Belsham"
-tags: 
+tags: poster repro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Emma McIlwraith**, <sup>1</sup>Neruja Loganathan, <sup>1,2</sup>Denise D. Belsham
 

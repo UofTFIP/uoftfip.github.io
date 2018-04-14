@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Sydney Rivers, Lucy Shu Nga Yeung, Yusaku Mori, Kenny Chan, Dana Philpott, Amira Klip, and Adria Giacca"
-tags: 
+tags: poster endo
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Sydney Rivers**, <sup>1</sup>Lucy Shu Nga Yeung, <sup>1</sup>Yusaku Mori, <sup>1</sup>Kenny Chan, <sup>2</sup>Dana Philpott, <sup>1</sup>Amira Klip, <sup>1</sup>and Adria Giacca
 

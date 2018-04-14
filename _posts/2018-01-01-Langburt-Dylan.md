@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Dylan Langburt 1, Scott Heximer 1"
-tags: 
+tags: poster cardio
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>2</sup>Dylan Langburt 1**, <sup>2,3</sup>Scott Heximer 1
 

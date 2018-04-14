@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Kyunga Kim, Andrea Jurisicova"
-tags: 
+tags: poster repro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1,2</sup>Kyunga Kim**, <sup>1,2,3</sup>Andrea Jurisicova
 

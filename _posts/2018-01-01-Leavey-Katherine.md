@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Katherine Leavey, Isaac Gibbs, Samantha Benton, David Grynspan, Shannon Bainbridge, Brian Cox"
-tags: 
+tags: poster repro
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Katherine Leavey**, <sup>1</sup>Isaac Gibbs, <sup>2</sup>Samantha Benton, <sup>3</sup>David Grynspan, <sup>2,4</sup>Shannon Bainbridge, <sup>1,5</sup>Brian Cox
 

@@ -5,9 +5,9 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Jhenielle Campbell, Patricia Brubaker"
-tags: 
+tags: poster endo
 session_id: nan
-visible: false
+visible: true
 ---
 **<sup>1</sup>Jhenielle Campbell**, <sup>1,2</sup>Patricia Brubaker
 
