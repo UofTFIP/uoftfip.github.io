@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Effects of Viral Mimics on Pro-Inflammatory Response Genes Expression in Astrocytes "
+title: "B9. The Effects of Viral Mimics on Pro-Inflammatory Response Genes Expression in Astrocytes "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

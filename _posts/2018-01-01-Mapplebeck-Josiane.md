@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neuropathic pain caused by Cl- dysregulation in both sexes; overcoming degenerate regulation by targeting KCC2"
+title: "B12. Neuropathic pain caused by Cl- dysregulation in both sexes; overcoming degenerate regulation by targeting KCC2"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

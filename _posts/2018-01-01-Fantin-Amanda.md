@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimizing pancreatic decellularization for examining the role of the extracellular matrix in islet maintenance and maturation in vitro"
+title: "R11. Optimizing pancreatic decellularization for examining the role of the extracellular matrix in islet maintenance and maturation in vitro"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

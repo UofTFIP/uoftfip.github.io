@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Measurement and modulation of the excitability of a brainstem motoneuron pool in-vivo"
+title: "B2. Measurement and modulation of the excitability of a brainstem motoneuron pool in-vivo"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

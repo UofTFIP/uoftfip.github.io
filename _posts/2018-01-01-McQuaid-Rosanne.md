@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The role of BRCA1 on infertility and mitochondrial function"
+title: "R6. The role of BRCA1 on infertility and mitochondrial function"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIRT3 – Sex Specific Role in Behaviour? "
+title: "1.2. SIRT3 – Sex Specific Role in Behaviour? "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

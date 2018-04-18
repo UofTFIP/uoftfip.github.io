@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulating In Vivo-Like States for Hippocampal CA1 Interneuron Specific 3 Cells"
+title: "B22. Simulating In Vivo-Like States for Hippocampal CA1 Interneuron Specific 3 Cells"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

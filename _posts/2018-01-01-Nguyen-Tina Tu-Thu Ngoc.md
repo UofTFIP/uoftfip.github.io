@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Characterizing Endometrial Receptivity of Primary Human Endometrial Cells In Vitro from Women with Implantation Failure"
+title: "R7. Characterizing Endometrial Receptivity of Primary Human Endometrial Cells In Vitro from Women with Implantation Failure"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anesthetic activation of GABAA receptors in astrocytes causes persistent GABAA receptor hyperactivity in neurons in mice"
+title: "B20. Anesthetic activation of GABAA receptors in astrocytes causes persistent GABAA receptor hyperactivity in neurons in mice"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

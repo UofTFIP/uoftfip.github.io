@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Effect of Traumatic Brain Injury on Superficial White Matter in Youth: Towards a Personalized Injury Profile."
+title: "B25. The Effect of Traumatic Brain Injury on Superficial White Matter in Youth: Towards a Personalized Injury Profile."
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

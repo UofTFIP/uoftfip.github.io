@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How an asymmetric L1 motor circuit generates symmetrical motor output"
+title: "3.4. How an asymmetric L1 motor circuit generates symmetrical motor output"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

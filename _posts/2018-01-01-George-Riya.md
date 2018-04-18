@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Novel Approach to developing Undergraduate Research Skills in First-year"
+title: "B14. Novel Approach to developing Undergraduate Research Skills in First-year"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

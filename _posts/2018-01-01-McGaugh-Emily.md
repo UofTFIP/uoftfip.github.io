@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modeling pancreatic development using hESC and patient specific iPSC"
+title: "1.3. Modeling pancreatic development using hESC and patient specific iPSC"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

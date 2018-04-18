@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nanoscale imaging of essential sarcoplasmic reticulum proteins in pressure overload cardiomyocytes"
+title: "1.1. Nanoscale imaging of essential sarcoplasmic reticulum proteins in pressure overload cardiomyocytes"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

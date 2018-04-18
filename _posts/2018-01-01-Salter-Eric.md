@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Investigating the function of the complement cascade in hippocampal synaptic plasticity"
+title: "B10. Investigating the function of the complement cascade in hippocampal synaptic plasticity"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

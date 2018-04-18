@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lactobacillus gasseri in the upper small intestine impacts an ACSL3-dependent fatty acid sensing pathway that regulates whole-body glucose homeostasis"
+title: "E15. Lactobacillus gasseri in the upper small intestine impacts an ACSL3-dependent fatty acid sensing pathway that regulates whole-body glucose homeostasis"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

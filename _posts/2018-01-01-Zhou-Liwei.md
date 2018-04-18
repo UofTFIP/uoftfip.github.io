@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The effect of resveratrol on reducing neointimal growth after femoral artery injury is abolished in AMPKα2 knock-out mice"
+title: "E9. The effect of resveratrol on reducing neointimal growth after femoral artery injury is abolished in AMPKα2 knock-out mice"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

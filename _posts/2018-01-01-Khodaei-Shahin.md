@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pre-existing inflammation exacerbates cognitive dysfunction after anesthesia in mice"
+title: "B15. Pre-existing inflammation exacerbates cognitive dysfunction after anesthesia in mice"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

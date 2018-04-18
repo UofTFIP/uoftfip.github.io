@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The role of endogenous cellular prion protein in brain synaptic function"
+title: "B1. The role of endogenous cellular prion protein in brain synaptic function"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

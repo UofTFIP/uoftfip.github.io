@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bisphenol A increases AgRP mRNA levels in hypothalamic neurons through MAP kinases, JNK and ERK"
+title: "E3. Bisphenol A increases AgRP mRNA levels in hypothalamic neurons through MAP kinases, JNK and ERK"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

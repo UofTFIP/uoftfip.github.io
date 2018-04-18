@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The role of fibroblasts in cardiac fibrosis"
+title: "C3. The role of fibroblasts in cardiac fibrosis"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

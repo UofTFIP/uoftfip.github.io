@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Single-Cell Transcriptomic Assessment of Stem Cells Re-isolated from Murine Embryos to Determine the Influence of Microenvironments on Stem Cell Developmental Trajectories "
+title: "2.4. Single-Cell Transcriptomic Assessment of Stem Cells Re-isolated from Murine Embryos to Determine the Influence of Microenvironments on Stem Cell Developmental Trajectories "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

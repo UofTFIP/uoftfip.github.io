@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using pluripotent stem cell-derived kidney organoids to model kidney injury"
+title: "3.3. Using pluripotent stem cell-derived kidney organoids to model kidney injury"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Involvement of synaptic vesicle and receptor trafficking system in multiple sclerosis"
+title: "B18. Involvement of synaptic vesicle and receptor trafficking system in multiple sclerosis"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

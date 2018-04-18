@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acid sphingomyelinase deficiency results in abnormal placental development and a growth restricted fetus that cannot be rescued in a WT uterine environment"
+title: "R5. Acid sphingomyelinase deficiency results in abnormal placental development and a growth restricted fetus that cannot be rescued in a WT uterine environment"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

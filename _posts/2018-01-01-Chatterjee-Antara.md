@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developing a Novel Screening Tool for Preterm Birth: Detecting Changes of the Extracellular Matrix in the Murine Cervix by Biochemical Analyses & Magnetic Resonance Imaging (MRI) During Term and Preterm Labor
+title: "1.4. Developing a Novel Screening Tool for Preterm Birth: Detecting Changes of the Extracellular Matrix in the Murine Cervix by Biochemical Analyses & Magnetic Resonance Imaging (MRI) During Term and Preterm Labor
 "
 header-img: "img/banner.jpg"
 category: abstracts

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deciphering the contributions of Oriens-Lacunosum/Moleulaire (OLM) cells during Local Field Potential (LFP) theta rhythms in CA1 hippocampus "
+title: "B19. Deciphering the contributions of Oriens-Lacunosum/Moleulaire (OLM) cells during Local Field Potential (LFP) theta rhythms in CA1 hippocampus "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

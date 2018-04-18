@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meta analysis of microarray data of BMP4 treated human embryonic stem cells shows poor evidence for trophoblast cell types."
+title: "R4. Meta analysis of microarray data of BMP4 treated human embryonic stem cells shows poor evidence for trophoblast cell types."
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

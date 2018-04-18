@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "γ-Aminobutyric acid (GABA) promotes beta-cell proliferation in mouse and human islets"
+title: "E16. γ-Aminobutyric acid (GABA) promotes beta-cell proliferation in mouse and human islets"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

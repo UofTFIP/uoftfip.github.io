@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elucidating pancreatic lineage commitment using hESC directed differentiation"
+title: "E13. Elucidating pancreatic lineage commitment using hESC directed differentiation"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

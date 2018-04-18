@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring the impact of coQ and Pdss2 deficiency on preimplantation embryo development and maternal-zygotic transition"
+title: "R3. Exploring the impact of coQ and Pdss2 deficiency on preimplantation embryo development and maternal-zygotic transition"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

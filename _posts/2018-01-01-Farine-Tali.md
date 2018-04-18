@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Differential effects of decidual cytokines responsible for the infiltration of maternal peripheral leukocytes during human labour"
+title: "R9. Differential effects of decidual cytokines responsible for the infiltration of maternal peripheral leukocytes during human labour"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

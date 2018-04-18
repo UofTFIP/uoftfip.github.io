@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assessing the regulatory role of Munc18-1 in glucagon-like peptide-1 secretion from the intestinal L cell "
+title: "E8. Assessing the regulatory role of Munc18-1 in glucagon-like peptide-1 secretion from the intestinal L cell "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Progesterone Receptor Isoforms PRA and PRB Differentially Regulate Connexin 43 Expression and Intracellular Distribution in Breast Cancer Cells
+title: "R8. Progesterone Receptor Isoforms PRA and PRB Differentially Regulate Connexin 43 Expression and Intracellular Distribution in Breast Cancer Cells
 "
 header-img: "img/banner.jpg"
 category: abstracts

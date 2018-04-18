@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REEP5 depletion causes sarcoplasmic reticulum vacuolization and cardiac functional defects"
+title: "3.1. REEP5 depletion causes sarcoplasmic reticulum vacuolization and cardiac functional defects"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

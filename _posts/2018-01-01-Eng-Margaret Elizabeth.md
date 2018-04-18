@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antenatal synthetic glucocorticoid exposure modifies gene expression at the post-natal blood-testes barrier "
+title: "R10. Antenatal synthetic glucocorticoid exposure modifies gene expression at the post-natal blood-testes barrier "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

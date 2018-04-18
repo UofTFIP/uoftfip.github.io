@@ -114,7 +114,7 @@ class Abstract(Attendee):
         self.affiliations_parsed = u"__{}__\n".format(u"; ".join(self.affiliations))
         self.header = '''---
 layout: post
-title: "{}"
+title: "{}. {}"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "{}"
@@ -123,7 +123,7 @@ tags: {}
 session_id: {}
 visible: {}
 ---
-'''.format(self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, str(self.pending).lower())
+'''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, str(self.pending).lower())
         self.post = self.header + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
         self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"

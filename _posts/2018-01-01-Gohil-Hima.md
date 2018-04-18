@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GABA: Potential Agent of β-Cell Proliferation"
+title: "E14. GABA: Potential Agent of β-Cell Proliferation"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

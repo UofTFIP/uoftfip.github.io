@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acute Exposure to Fish Oil Supplements Protect High Fat Diet Impaired Pancreatic Beta Cell Function "
+title: "2.3. Acute Exposure to Fish Oil Supplements Protect High Fat Diet Impaired Pancreatic Beta Cell Function "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Prefrontal responses to optogenetic release of endogenous acetylcholine depend on expression of alpha5 nicotinic receptors"
+title: "B16.  Prefrontal responses to optogenetic release of endogenous acetylcholine depend on expression of alpha5 nicotinic receptors"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Determining the Role of Gαi3 in Ischemia-Reperfusion Injury"
+title: "C6. Determining the Role of Gαi3 in Ischemia-Reperfusion Injury"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

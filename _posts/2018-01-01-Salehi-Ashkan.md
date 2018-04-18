@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rescuing the bisphenol A mediated dysregulation of the pro-opiomelanocortin gene with anti-inflammatory compounds in hypothalamic neurons"
+title: "E1. Rescuing the bisphenol A mediated dysregulation of the pro-opiomelanocortin gene with anti-inflammatory compounds in hypothalamic neurons"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

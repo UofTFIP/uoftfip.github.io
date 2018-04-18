@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The adult mammalian digit tip blastema consists of pre-existing mesenchymal cells that are recruited for regeneration "
+title: "B11. The adult mammalian digit tip blastema consists of pre-existing mesenchymal cells that are recruited for regeneration "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

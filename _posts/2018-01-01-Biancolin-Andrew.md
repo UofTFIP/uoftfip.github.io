@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Role of Secretagogin in Circadian GLP-1 Secretion"
+title: "E5. The Role of Secretagogin in Circadian GLP-1 Secretion"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

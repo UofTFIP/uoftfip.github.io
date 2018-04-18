@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gene regulation of phoenixin by bisphenol A, palmitate and oleate in hypothalamic neurons"
+title: "R2. Gene regulation of phoenixin by bisphenol A, palmitate and oleate in hypothalamic neurons"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

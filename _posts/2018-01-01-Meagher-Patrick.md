@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alpha 11 integrin a mediator of myofibrolastic transformation and fibrosis formation in the failing heart."
+title: "C2. Alpha 11 integrin a mediator of myofibrolastic transformation and fibrosis formation in the failing heart."
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

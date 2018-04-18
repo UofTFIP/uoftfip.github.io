@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Generating and characterizing induced pluripotent stem cells (iPSCs) from umbilical cord mesenchymal stromal cells (UCT-MSCs) "
+title: "R12. Generating and characterizing induced pluripotent stem cells (iPSCs) from umbilical cord mesenchymal stromal cells (UCT-MSCs) "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

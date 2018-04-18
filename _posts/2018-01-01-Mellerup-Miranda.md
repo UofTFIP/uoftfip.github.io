@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The time course of behavioural impairment in mice following mild traumatic brain injury"
+title: "B24. The time course of behavioural impairment in mice following mild traumatic brain injury"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

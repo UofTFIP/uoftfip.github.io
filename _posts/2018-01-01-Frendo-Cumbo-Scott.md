@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autophagy Related Protein 16L1 (Atg16L1) Depletion Induces Insulin Resistance Through Decreased IRS Expression"
+title: "E11. Autophagy Related Protein 16L1 (Atg16L1) Depletion Induces Insulin Resistance Through Decreased IRS Expression"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

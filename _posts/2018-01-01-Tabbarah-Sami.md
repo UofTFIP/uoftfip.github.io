@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Investigating the role of COG5 and SRD5A3 gene mutations in inducing ER stress and causing retinal degeneration"
+title: "B13. Investigating the role of COG5 and SRD5A3 gene mutations in inducing ER stress and causing retinal degeneration"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

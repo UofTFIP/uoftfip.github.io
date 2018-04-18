@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zebrafish Reverse Translation Models for Major Depressive Disorders (MDD)"
+title: "B23. Zebrafish Reverse Translation Models for Major Depressive Disorders (MDD)"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

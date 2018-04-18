@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genome-wide association study for variants associated with reading abilities"
+title: "B6. Genome-wide association study for variants associated with reading abilities"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

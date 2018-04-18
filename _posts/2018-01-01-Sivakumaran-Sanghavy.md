@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The role of the nicotinic α5 subunit in key midbrain structures implicated in nicotine response"
+title: "B7. The role of the nicotinic α5 subunit in key midbrain structures implicated in nicotine response"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

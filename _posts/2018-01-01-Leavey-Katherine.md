@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Placental subtypes of small-for-gestational-age pregnancies"
+title: "R1. Placental subtypes of small-for-gestational-age pregnancies"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"

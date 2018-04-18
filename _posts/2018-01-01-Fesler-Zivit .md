@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Treatment of Glucagon-like Peptide-2 and Epidermal Growth Factor Simultaneously Increases Small Intestine Growth Synergistically in Mice "
+title: "3.2. Treatment of Glucagon-like Peptide-2 and Epidermal Growth Factor Simultaneously Increases Small Intestine Growth Synergistically in Mice "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

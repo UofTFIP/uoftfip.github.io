@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cardioprotective benefits of combined treatment with glucagon-like peptide-1 receptor agonist and sodium glucose transporter 2 inhibitor in mice"
+title: "C8. Cardioprotective benefits of combined treatment with glucagon-like peptide-1 receptor agonist and sodium glucose transporter 2 inhibitor in mice"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

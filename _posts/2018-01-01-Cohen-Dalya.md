@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synaptic plasticity in Alzheimer's disease"
+title: "B8. Synaptic plasticity in Alzheimer's disease"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

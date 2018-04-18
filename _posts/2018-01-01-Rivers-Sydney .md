@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NOD1 mediates insulin resistance in response to circulating free fatty acids"
+title: "E12. NOD1 mediates insulin resistance in response to circulating free fatty acids"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

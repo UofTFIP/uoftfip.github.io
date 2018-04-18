@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vulnerability of insulin signal transduction during insulin resistance and its consequences on GLUT4 translocation "
+title: "E2. Vulnerability of insulin signal transduction during insulin resistance and its consequences on GLUT4 translocation "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

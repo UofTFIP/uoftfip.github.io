@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hypothalamic BMAL1-knockout cell lines for the study of circadian feeding regulation"
+title: "E6. Hypothalamic BMAL1-knockout cell lines for the study of circadian feeding regulation"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

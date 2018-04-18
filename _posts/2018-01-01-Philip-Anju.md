@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preclinical development of a small molecule identified from a zebrafish screen as a novel candidate drug for sepsis targeting vascular leakage"
+title: "C10. Preclinical development of a small molecule identified from a zebrafish screen as a novel candidate drug for sepsis targeting vascular leakage"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"

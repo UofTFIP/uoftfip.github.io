@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Circadian secretion of glucagon-like peptide-1 is essential to maintaining diurnal metabolic homeostasis"
+title: "E10. Circadian secretion of glucagon-like peptide-1 is essential to maintaining diurnal metabolic homeostasis"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neural activity of the subthalamic nucleus in a preference-based decision-making task."
+title: "B3. Neural activity of the subthalamic nucleus in a preference-based decision-making task."
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

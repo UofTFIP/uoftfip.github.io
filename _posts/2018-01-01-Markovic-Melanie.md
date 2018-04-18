@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lipid absorption and its connection to the intestinal epithelial insulin-like growth factor-1 receptor"
+title: "E7. Lipid absorption and its connection to the intestinal epithelial insulin-like growth factor-1 receptor"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"

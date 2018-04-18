@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiplexed Coding Using Differentially Synchronized Spikes"
+title: "B17. Multiplexed Coding Using Differentially Synchronized Spikes"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"

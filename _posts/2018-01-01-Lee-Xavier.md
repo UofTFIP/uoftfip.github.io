@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Degradation of Phospholamban mutants in cardiac muscle cells"
+title: "C4. Degradation of Phospholamban mutants in cardiac muscle cells"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
