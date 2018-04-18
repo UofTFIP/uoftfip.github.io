@@ -4,7 +4,7 @@ title: "Differential effects of decidual cytokines responsible for the infiltrat
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Tali Farine**, Oksana Shynlova, Stephen Lye"
+subtitle: "Tali Farine, Oksana Shynlova, Stephen Lye"
 tags: poster repro
 session_id: R9
 visible: true

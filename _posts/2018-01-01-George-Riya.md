@@ -4,7 +4,7 @@ title: "Novel Approach to developing Undergraduate Research Skills in First-year
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Riya George**, Michelle French"
+subtitle: "Riya George, Michelle French"
 tags: poster neuro
 session_id: B14
 visible: true

@@ -4,7 +4,7 @@ title: "Acid sphingomyelinase deficiency results in abnormal placental developme
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Isidora Rovic**, Han Li, Katherine Szelag, Andrea Jurisicova"
+subtitle: "Isidora Rovic, Han Li, Katherine Szelag, Andrea Jurisicova"
 tags: poster repro
 session_id: R5
 visible: true

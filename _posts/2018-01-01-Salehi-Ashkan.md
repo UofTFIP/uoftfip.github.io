@@ -4,7 +4,7 @@ title: "Rescuing the bisphenol A mediated dysregulation of the pro-opiomelanocor
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Ashkan Salehi**, Denise D. Belsham"
+subtitle: "Ashkan Salehi, Denise D. Belsham"
 tags: poster endo
 session_id: E1
 visible: true

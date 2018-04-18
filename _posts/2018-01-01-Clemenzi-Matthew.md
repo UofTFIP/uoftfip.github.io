@@ -4,7 +4,7 @@ title: "Hypothalamic BMAL1-knockout cell lines for the study of circadian feedin
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Matthew N. Clemenzi**, Erika K. Tse, Jennifer A. Chalmers, Neruja Loganathan, Ashkan Salehi, Alexandre Martchenko, Patricia L. Brubaker, Denise D. Belsham"
+subtitle: "Matthew N. Clemenzi, Erika K. Tse, Jennifer A. Chalmers, Neruja Loganathan, Ashkan Salehi, Alexandre Martchenko, Patricia L. Brubaker, Denise D. Belsham"
 tags: poster endo
 session_id: E6
 visible: true

@@ -4,7 +4,7 @@ title: "The role of the nicotinic α5 subunit in key midbrain structures implica
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Sanghavy Sivakumaran**, Daniel W. Sparks, Evelyn K. Lambe"
+subtitle: "Sanghavy Sivakumaran, Daniel W. Sparks, Evelyn K. Lambe"
 tags: poster neuro
 session_id: B7
 visible: true

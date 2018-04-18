@@ -4,7 +4,7 @@ title: "Deciphering the contributions of Oriens-Lacunosum/Moleulaire (OLM) cells
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Alexandra Chatzikalymniou**, Frances Skinner"
+subtitle: "Alexandra Chatzikalymniou, Frances Skinner"
 tags: poster neuro
 session_id: B19
 visible: true

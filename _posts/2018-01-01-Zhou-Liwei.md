@@ -4,7 +4,7 @@ title: "The effect of resveratrol on reducing neointimal growth after femoral ar
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Liwei Zhou**, June Guo, Hangjun Zhang, Scott Heximer, Adria Giacca"
+subtitle: "Liwei Zhou, June Guo, Hangjun Zhang, Scott Heximer, Adria Giacca"
 tags: poster endo
 session_id: E9
 visible: true

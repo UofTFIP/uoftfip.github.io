@@ -4,7 +4,7 @@ title: "GABA: Potential Agent of β-Cell Proliferation"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Hima Gohil**, Ashley Untereiner, Alpana Bhattacharjee, Feihan Dai, Ying Liu, and Michael Wheeler"
+subtitle: "Hima Gohil, Ashley Untereiner, Alpana Bhattacharjee, Feihan Dai, Ying Liu, and Michael Wheeler"
 tags: poster endo
 session_id: E14
 visible: true

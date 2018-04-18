@@ -4,7 +4,7 @@ title: "Exploring the impact of coQ and Pdss2 deficiency on preimplantation embr
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Kyunga Kim**, Andrea Jurisicova"
+subtitle: "Kyunga Kim, Andrea Jurisicova"
 tags: poster repro
 session_id: R3
 visible: true

@@ -4,7 +4,7 @@ title: "Pre-existing inflammation exacerbates cognitive dysfunction after anesth
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Shahin Khodaei**, Yu-Feng Xie, Dian-Shi Wang, Beverley Orser"
+subtitle: "Shahin Khodaei, Yu-Feng Xie, Dian-Shi Wang, Beverley Orser"
 tags: poster neuro
 session_id: B15
 visible: true

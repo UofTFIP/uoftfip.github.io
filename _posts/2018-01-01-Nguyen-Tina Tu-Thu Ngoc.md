@@ -4,7 +4,7 @@ title: "Characterizing Endometrial Receptivity of Primary Human Endometrial Cell
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Tina Tu-Thu Ngoc Nguyen**, Stewart J. Russell, Clifford Librach"
+subtitle: "Tina Tu-Thu Ngoc Nguyen, Stewart J. Russell, Clifford Librach"
 tags: poster repro
 session_id: R7
 visible: true

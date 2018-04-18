@@ -4,7 +4,7 @@ title: "Treatment of Glucagon-like Peptide-2 and Epidermal Growth Factor Simulta
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Zivit Fesler**, Patricia L Brubaker"
+subtitle: "Zivit Fesler, Patricia L Brubaker"
 tags: oral endo
 session_id: 3.2
 visible: true

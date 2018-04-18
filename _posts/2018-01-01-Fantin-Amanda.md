@@ -4,7 +4,7 @@ title: "Optimizing pancreatic decellularization for examining the role of the ex
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Amanda Fantin**, Jennifer Whiteley, Ian Rogers"
+subtitle: "Amanda Fantin, Jennifer Whiteley, Ian Rogers"
 tags: poster repro
 session_id: R11
 visible: true

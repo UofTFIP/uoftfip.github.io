@@ -4,7 +4,7 @@ title: "Zebrafish Reverse Translation Models for Major Depressive Disorders (MDD
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Vijay Narasimhan**, Jane Foster, Sidney Kennedy, Xiao-Yan Wen"
+subtitle: "Vijay Narasimhan, Jane Foster, Sidney Kennedy, Xiao-Yan Wen"
 tags: poster neuro
 session_id: B23
 visible: true

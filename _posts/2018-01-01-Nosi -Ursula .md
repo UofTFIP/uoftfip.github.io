@@ -4,7 +4,7 @@ title: "Single-Cell Transcriptomic Assessment of Stem Cells Re-isolated from Mur
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Ursula Nosi**, Fredrik Lanner, Brian Cox"
+subtitle: "Ursula Nosi, Fredrik Lanner, Brian Cox"
 tags: oral repro
 session_id: 2.4
 visible: true

@@ -4,7 +4,7 @@ title: "Involvement of synaptic vesicle and receptor trafficking system in multi
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Anlong Jiang**, Fang Liu"
+subtitle: "Anlong Jiang, Fang Liu"
 tags: poster neuro
 session_id: B18
 visible: true

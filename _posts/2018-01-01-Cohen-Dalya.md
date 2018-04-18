@@ -4,7 +4,7 @@ title: "Synaptic plasticity in Alzheimer's disease"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Dalya Cohen**, Zheng-Ping Jia, Graham Collingridge"
+subtitle: "Dalya Cohen, Zheng-Ping Jia, Graham Collingridge"
 tags: poster neuro
 session_id: B8
 visible: true

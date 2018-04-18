@@ -4,7 +4,7 @@ title: "Circadian secretion of glucagon-like peptide-1 is essential to maintaini
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Alexandre Martchenko**, Matthew Clemenzi, Patrick, Patricia L. Brubaker"
+subtitle: "Alexandre Martchenko, Matthew Clemenzi, Patrick, Patricia L. Brubaker"
 tags: poster endo
 session_id: E10
 visible: true

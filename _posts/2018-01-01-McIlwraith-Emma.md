@@ -4,7 +4,7 @@ title: "Gene regulation of phoenixin by bisphenol A, palmitate and oleate in hyp
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Emma McIlwraith**, Neruja Loganathan, Denise D. Belsham"
+subtitle: "Emma McIlwraith, Neruja Loganathan, Denise D. Belsham"
 tags: poster repro
 session_id: R2
 visible: true

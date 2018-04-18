@@ -4,7 +4,7 @@ title: "Using pluripotent stem cell-derived kidney organoids to model kidney inj
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Theresa Chow**, Jennifer Whiteley, Ian Rogers"
+subtitle: "Theresa Chow, Jennifer Whiteley, Ian Rogers"
 tags: oral repro
 session_id: 3.3
 visible: true

@@ -4,7 +4,7 @@ title: "Neural activity of the subthalamic nucleus in a preference-based decisio
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Tameem M. Alozzi**, Luis F. Botero Posada, Adriana L. Lopez Rios, William D. Hutchison"
+subtitle: "Tameem M. Alozzi, Luis F. Botero Posada, Adriana L. Lopez Rios, William D. Hutchison"
 tags: poster neuro
 session_id: B3
 visible: true

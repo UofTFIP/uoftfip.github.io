@@ -4,7 +4,7 @@ title: "REEP5 depletion causes sarcoplasmic reticulum vacuolization and cardiac 
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "**Shin-Haw Lee**, Sina Hadipour-Lakmehsari, Natalie Gibb, Allen C.T. Teng, Tetsuaki Miyake, Jake Cosme, Jessica C. Yu, Peter Liu, Filio Billia, Rodrigo Fernandez-Gonzalez, Igor Stagljar, Parveen Sharma, Thomas Kislinger, Ian C. Scott, Anthony O. Gramolini"
+subtitle: "Shin-Haw Lee, Sina Hadipour-Lakmehsari, Natalie Gibb, Allen C.T. Teng, Tetsuaki Miyake, Jake Cosme, Jessica C. Yu, Peter Liu, Filio Billia, Rodrigo Fernandez-Gonzalez, Igor Stagljar, Parveen Sharma, Thomas Kislinger, Ian C. Scott, Anthony O. Gramolini"
 tags: oral cardio
 session_id: 3.1
 visible: true

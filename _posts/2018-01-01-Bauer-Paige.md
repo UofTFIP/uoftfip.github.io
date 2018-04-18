@@ -4,7 +4,7 @@ title: "Lactobacillus gasseri in the upper small intestine impacts an ACSL3-depe
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Paige V. Bauer**, Frank A. Duca, T. M. Zaved Waise, Helen J. Dranse, Brittany A. Rasmussen, Akshita Puri, Mozhgan Rasti, Catherine A. O’Brien, Tony K. T. Lam"
+subtitle: "Paige V. Bauer, Frank A. Duca, T. M. Zaved Waise, Helen J. Dranse, Brittany A. Rasmussen, Akshita Puri, Mozhgan Rasti, Catherine A. O’Brien, Tony K. T. Lam"
 tags: poster endo
 session_id: E15
 visible: true

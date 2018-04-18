@@ -4,7 +4,7 @@ title: "The Effects of Viral Mimics on Pro-Inflammatory Response Genes Expressio
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Andrada Naghi**, Güínever Eustáquio Do Império, Stephen G Matthews"
+subtitle: "Andrada Naghi, Güínever Eustáquio Do Império, Stephen G Matthews"
 tags: poster neuro
 session_id: B9
 visible: true

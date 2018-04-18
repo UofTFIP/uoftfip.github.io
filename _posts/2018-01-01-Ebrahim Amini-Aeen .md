@@ -4,7 +4,7 @@ title: "The role of endogenous cellular prion protein in brain synaptic function
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Aeen Ebrahim Amini**, John Georgiou, Changiz Taghibiglou, Graham L. Collingridge"
+subtitle: "Aeen Ebrahim Amini, John Georgiou, Changiz Taghibiglou, Graham L. Collingridge"
 tags: poster neuro
 session_id: B1
 visible: true

@@ -4,7 +4,7 @@ title: "Preclinical development of a small molecule identified from a zebrafish 
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "**Anju M Philip**, Patricia Gali, Yuexin Shan, Claudia dosSantos, Xiao-Yan Wen"
+subtitle: "Anju M Philip, Patricia Gali, Yuexin Shan, Claudia dosSantos, Xiao-Yan Wen"
 tags: poster cardio
 session_id: C10
 visible: true

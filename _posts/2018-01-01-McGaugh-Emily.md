@@ -4,7 +4,7 @@ title: "Modeling pancreatic development using hESC and patient specific iPSC"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Emily McGaugh**, Simon Kelley, April Craft, Maria Cristina Nostro"
+subtitle: "Emily McGaugh, Simon Kelley, April Craft, Maria Cristina Nostro"
 tags: oral endo
 session_id: 1.3
 visible: true

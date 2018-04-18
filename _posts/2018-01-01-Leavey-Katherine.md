@@ -4,7 +4,7 @@ title: "Placental subtypes of small-for-gestational-age pregnancies"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Katherine Leavey**, Isaac Gibbs, Samantha Benton, David Grynspan, Shannon Bainbridge, Brian Cox"
+subtitle: "Katherine Leavey, Isaac Gibbs, Samantha Benton, David Grynspan, Shannon Bainbridge, Brian Cox"
 tags: poster repro
 session_id: R1
 visible: true

@@ -4,7 +4,7 @@ title: "The role of fibroblasts in cardiac fibrosis"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "**Haisam Shah**, Shafkat Choudhury, Hangjun Zhang, Meghan McFadden, Yuqing Zhou, Anthony Gramolini, Scott Heximer"
+subtitle: "Haisam Shah, Shafkat Choudhury, Hangjun Zhang, Meghan McFadden, Yuqing Zhou, Anthony Gramolini, Scott Heximer"
 tags: poster cardio
 session_id: C3
 visible: true

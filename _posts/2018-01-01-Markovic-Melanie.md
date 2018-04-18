@@ -4,7 +4,7 @@ title: "Lipid absorption and its connection to the intestinal epithelial insulin
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Melanie A Markovic**, Patricia L Brubaker"
+subtitle: "Melanie A Markovic, Patricia L Brubaker"
 tags: poster endo
 session_id: E7
 visible: true

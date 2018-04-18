@@ -4,7 +4,7 @@ title: "The time course of behavioural impairment in mice following mild traumat
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Miranda Mellerup**, Lisa Gazdzinski, John Sled, Anne Wheeler"
+subtitle: "Miranda Mellerup, Lisa Gazdzinski, John Sled, Anne Wheeler"
 tags: poster neuro
 session_id: B24
 visible: true

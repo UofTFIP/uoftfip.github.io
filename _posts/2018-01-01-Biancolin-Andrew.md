@@ -4,7 +4,7 @@ title: "The Role of Secretagogin in Circadian GLP-1 Secretion"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Andrew Biancolin**, Emilia Mitova, Patricia Brubaker"
+subtitle: "Andrew Biancolin, Emilia Mitova, Patricia Brubaker"
 tags: poster endo
 session_id: E5
 visible: true

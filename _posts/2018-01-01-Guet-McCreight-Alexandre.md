@@ -4,7 +4,7 @@ title: "Simulating In Vivo-Like States for Hippocampal CA1 Interneuron Specific 
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Alexandre Guet-McCreight**, Lisa Topolnik, Frances K. Skinner"
+subtitle: "Alexandre Guet-McCreight, Lisa Topolnik, Frances K. Skinner"
 tags: poster neuro
 session_id: B22
 visible: true

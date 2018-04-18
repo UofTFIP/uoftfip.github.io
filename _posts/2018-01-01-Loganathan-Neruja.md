@@ -4,7 +4,7 @@ title: "Bisphenol A increases AgRP mRNA levels in hypothalamic neurons through M
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Neruja Loganathan**, Emma McIlwraith, Denise Belsham"
+subtitle: "Neruja Loganathan, Emma McIlwraith, Denise Belsham"
 tags: poster endo
 session_id: E3
 visible: true

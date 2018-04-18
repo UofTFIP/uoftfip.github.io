@@ -4,7 +4,7 @@ title: "γ-Aminobutyric acid (GABA) promotes beta-cell proliferation in mouse an
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Ashley Untereiner**, Shaaban Abdo, Alpana Bhattacharjee, Himaben Gohil, Farzaneh Pourasgari, Neke Ibeh, Mi Lai, Anthony Wong, Nicholas Khuu, Ying Liu, Neil Winegarden, Carl Virtanen, Feihan F. Dai, Michael B. Wheeler"
+subtitle: "Ashley Untereiner, Shaaban Abdo, Alpana Bhattacharjee, Himaben Gohil, Farzaneh Pourasgari, Neke Ibeh, Mi Lai, Anthony Wong, Nicholas Khuu, Ying Liu, Neil Winegarden, Carl Virtanen, Feihan F. Dai, Michael B. Wheeler"
 tags: poster endo
 session_id: E16
 visible: true

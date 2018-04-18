@@ -108,6 +108,7 @@ class Abstract(Attendee):
                 author_only = '**{}**'.format(i[0])
             authors_parsed.append(author)
         self.authors_parsed = ", ".join(authors_parsed)
+        self.just_authors_poster = ', '.join([i[0] for i in self.authors])
         self.authors[0][0] = "**" + self.authors[0][0] + "**"
         self.just_authors = ', '.join([i[0] for i in self.authors])
         self.affiliations_parsed = u"__{}__\n".format(u"; ".join(self.affiliations))
@@ -122,7 +123,7 @@ tags: {}
 session_id: {}
 visible: {}
 ---
-'''.format(self.title, self.platform_code, self.just_authors, self.tags, self.session, str(self.pending).lower())
+'''.format(self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, str(self.pending).lower())
         self.post = self.header + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
         self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"

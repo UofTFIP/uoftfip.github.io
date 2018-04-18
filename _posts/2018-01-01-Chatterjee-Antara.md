@@ -5,7 +5,7 @@ title: "Developing a Novel Screening Tool for Preterm Birth: Detecting Changes o
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Antara Chatterjee**, Kartik Jhaveri, John Sled, Wendy Whittle, Stephen Lye, Oksana Shynlova"
+subtitle: "Antara Chatterjee, Kartik Jhaveri, John Sled, Wendy Whittle, Stephen Lye, Oksana Shynlova"
 tags: oral repro
 session_id: 1.4
 visible: true

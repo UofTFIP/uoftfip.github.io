@@ -4,7 +4,7 @@ title: "Determining the Role of Gαi3 in Ischemia-Reperfusion Injury"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "**Dylan Langburt**, Scott Heximer"
+subtitle: "Dylan Langburt, Scott Heximer"
 tags: poster cardio
 session_id: C6
 visible: true

@@ -4,7 +4,7 @@ title: "The adult mammalian digit tip blastema consists of pre-existing mesenchy
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "**Neemat Mahmud**, Mekayla A. Storer, Scott A. Yuzwa, Michael J. Borrett, Dina Karamboulas, David R. Kaplan, Freda D. Miller"
+subtitle: "Neemat Mahmud, Mekayla A. Storer, Scott A. Yuzwa, Michael J. Borrett, Dina Karamboulas, David R. Kaplan, Freda D. Miller"
 tags: poster neuro
 session_id: B11
 visible: true

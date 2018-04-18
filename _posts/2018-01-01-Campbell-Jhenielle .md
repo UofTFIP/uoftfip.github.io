@@ -4,7 +4,7 @@ title: "Assessing the regulatory role of Munc18-1 in glucagon-like peptide-1 sec
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "**Jhenielle Campbell**, Patricia Brubaker"
+subtitle: "Jhenielle Campbell, Patricia Brubaker"
 tags: poster endo
 session_id: E8
 visible: true

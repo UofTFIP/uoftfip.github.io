@@ -4,7 +4,7 @@ title: "The role of BRCA1 on infertility and mitochondrial function"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "**Rosanne McQuaid**, Kyunga Kim, Elina Kadriu, Nicole Zhang, Taline Naranian, Razqallah Hakem, Andrea Jurisicova"
+subtitle: "Rosanne McQuaid, Kyunga Kim, Elina Kadriu, Nicole Zhang, Taline Naranian, Razqallah Hakem, Andrea Jurisicova"
 tags: poster repro
 session_id: R6
 visible: true
