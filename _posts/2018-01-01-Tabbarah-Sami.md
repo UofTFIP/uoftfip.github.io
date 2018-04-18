@@ -4,9 +4,9 @@ title: "Investigating the role of COG5 and SRD5A3 gene mutations in inducing ER 
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Sami Tabbarah, Jason Charish, Shuning Li, Yui Yin, Erika Tavares, Ajoy Vincent, Elise Heon, Philippe Monnier"
+subtitle: "**Sami Tabbarah**, Jason Charish, Shuning Li, Yui Yin, Erika Tavares, Ajoy Vincent, Elise Heon, Philippe Monnier"
 tags: poster neuro
-session_id: nan
+session_id: B13
 visible: true
 ---
 **<sup>1</sup>Sami Tabbarah**, <sup>2</sup>Jason Charish, <sup>2</sup>Shuning Li, <sup>2</sup>Yui Yin, <sup>3</sup>Erika Tavares, <sup>3</sup>Ajoy Vincent, <sup>1,\*</sup>Elise Heon, <sup>1,\*</sup>Philippe Monnier

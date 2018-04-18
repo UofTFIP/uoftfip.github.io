@@ -4,9 +4,9 @@ title: " Prefrontal responses to optogenetic release of endogenous acetylcholine
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Sridevi Venkatesan, Daniel W. Sparks, Evelyn K. Lambe"
+subtitle: "**Sridevi Venkatesan**, Daniel W. Sparks, Evelyn K. Lambe"
 tags: poster neuro
-session_id: nan
+session_id: B16
 visible: true
 ---
 **<sup>1</sup>Sridevi Venkatesan**, <sup>1</sup>Daniel W. Sparks, <sup>1,2</sup>Evelyn K. Lambe

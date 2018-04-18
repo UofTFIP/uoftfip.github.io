@@ -4,9 +4,9 @@ title: "Nanoscale imaging of essential sarcoplasmic reticulum proteins in pressu
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "Sina Hadipour-Lakmehsari, Amine Driouchi, Shin-Haw Lee, Uros Kuzmanov, Neal I. Callaghan, Craig A. Simmons, Chris M. Yip, Anthony O. Gramolini"
+subtitle: "**Sina Hadipour-Lakmehsari**, Amine Driouchi, Shin-Haw Lee, Uros Kuzmanov, Neal I. Callaghan, Craig A. Simmons, Chris M. Yip, Anthony O. Gramolini"
 tags: oral cardio
-session_id: 1-2
+session_id: 1.1
 visible: true
 ---
 **<sup>1,2</sup>Sina Hadipour-Lakmehsari**, <sup>3,4,5</sup>Amine Driouchi, <sup>1,2</sup>Shin-Haw Lee, <sup>1,5</sup>Uros Kuzmanov, <sup>1,4</sup>Neal I. Callaghan, <sup>1,4</sup>Craig A. Simmons, <sup>4,5</sup>Chris M. Yip, <sup>1,2</sup>Anthony O. Gramolini

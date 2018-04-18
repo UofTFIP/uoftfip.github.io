@@ -4,9 +4,9 @@ title: "Alpha 11 integrin a mediator of myofibrolastic transformation and fibros
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "Patrick Meagher BSc (Honours), Robert Civitarese MSc, Jean-Francios Desjardin MSc, Golam Kabir Msc MD, Kim Connelly MBBS PhD"
+subtitle: "**Patrick Meagher BSc (Honours)**, Robert Civitarese MSc, Jean-Francios Desjardin MSc, Golam Kabir Msc MD, Kim Connelly MBBS PhD"
 tags: poster cardio
-session_id: nan
+session_id: C2
 visible: true
 ---
 **<sup>1</sup>Patrick Meagher BSc (Honours)**, <sup>2</sup>Robert Civitarese MSc, <sup>3</sup>Jean-Francios Desjardin MSc, <sup>4</sup>Golam Kabir Msc MD, <sup>1,2,3,4,5</sup>Kim Connelly MBBS PhD

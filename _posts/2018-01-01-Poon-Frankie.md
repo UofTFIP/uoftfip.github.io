@@ -4,9 +4,9 @@ title: "Elucidating pancreatic lineage commitment using hESC directed differenti
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "Frankie Poon, Roman Korytnikov, Cristina Nostro"
+subtitle: "**Frankie Poon**, Roman Korytnikov, Cristina Nostro"
 tags: poster endo
-session_id: nan
+session_id: E13
 visible: true
 ---
 **<sup>1,2,3</sup>Frankie Poon**, <sup>1,2,3</sup>Roman Korytnikov, <sup>1,2,3</sup>Cristina Nostro

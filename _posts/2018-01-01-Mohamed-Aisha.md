@@ -4,9 +4,9 @@ title: "Generating and characterizing induced pluripotent stem cells (iPSCs) fro
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "Aisha Mohamed, Theresa Chow, Tonya Bongolan, Amanda Fantin, Jennifer Whiteley, Ian Rogers"
+subtitle: "**Aisha Mohamed**, Theresa Chow, Tonya Bongolan, Amanda Fantin, Jennifer Whiteley, Ian Rogers"
 tags: poster repro
-session_id: nan
+session_id: R12
 visible: true
 ---
 **<sup>1,2</sup>Aisha Mohamed**, <sup>1,2</sup>Theresa Chow, <sup>1,2</sup>Tonya Bongolan, <sup>1,2</sup>Amanda Fantin, <sup>1</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers

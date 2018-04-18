@@ -4,10 +4,10 @@ title: "Anesthetic activation of GABAA receptors in astrocytes causes persistent
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Arsène Pinguelo, Sean C. Haffey, Irene Lecker, Yu-Feng Xie, Dian-Shi Wang, Beverley A. Orser"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Arsène Pinguelo**, Sean C. Haffey, Irene Lecker, Yu-Feng Xie, Dian-Shi Wang, Beverley A. Orser"
+tags: poster neuro
+session_id: B20
+visible: true
 ---
 **<sup>1</sup>Arsène Pinguelo**, <sup>1</sup>Sean C. Haffey, <sup>1</sup>Irene Lecker, <sup>1</sup>Yu-Feng Xie, <sup>1</sup>Dian-Shi Wang, <sup>1,2,3</sup>Beverley A. Orser
 

@@ -4,12 +4,12 @@ title: "Determining the Role of Gαi3 in Ischemia-Reperfusion Injury"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "Dylan Langburt 1, Scott Heximer 1"
+subtitle: "**Dylan Langburt**, Scott Heximer"
 tags: poster cardio
-session_id: nan
+session_id: C6
 visible: true
 ---
-**<sup>2</sup>Dylan Langburt 1**, <sup>2,3</sup>Scott Heximer 1
+**<sup>1,2</sup>Dylan Langburt**, <sup>1,2,3</sup>Scott Heximer
 
 __1 Department of Physiology, University of Toronto Faculty of Medicine; 2 Translational Biology and Engineering Program, Ted Rogers Centre for Heart Research; 3 Heart and Stroke/Richard Lewar Centre of Excellence in Cardiovascular Research__
 

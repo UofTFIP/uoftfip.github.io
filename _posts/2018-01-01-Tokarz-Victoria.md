@@ -4,9 +4,9 @@ title: "Vulnerability of insulin signal transduction during insulin resistance a
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "Victoria Tokarz, Javier Jaldin-Fincati, Zhi Liu, Amira Klip"
+subtitle: "**Victoria Tokarz**, Javier Jaldin-Fincati, Zhi Liu, Amira Klip"
 tags: poster endo
-session_id: nan
+session_id: E2
 visible: true
 ---
 **<sup>1,2</sup>Victoria Tokarz**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1</sup>Zhi Liu, <sup>1,2</sup>Amira Klip

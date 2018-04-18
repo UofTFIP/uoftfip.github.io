@@ -4,10 +4,10 @@ title: "The Effect of Traumatic Brain Injury on Superficial White Matter in Yout
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Sonja Stojanovski, Arash Nazeri, Christian Lepage, Aristotle Voineskos, Anne L Wheeler"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Sonja Stojanovski**, Arash Nazeri, Christian Lepage, Aristotle Voineskos, Anne L Wheeler"
+tags: poster neuro
+session_id: B25
+visible: true
 ---
 **<sup>1,2</sup>Sonja Stojanovski**, <sup>3,4</sup>Arash Nazeri, <sup>5</sup>Christian Lepage, <sup>6,7,8</sup>Aristotle Voineskos, <sup>1,2</sup>Anne L Wheeler
 

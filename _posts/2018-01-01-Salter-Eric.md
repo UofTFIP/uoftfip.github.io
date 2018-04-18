@@ -4,9 +4,9 @@ title: "Investigating the function of the complement cascade in hippocampal syna
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Eric W Salter, Sun-Lim Choi, John Georgiou, Graham L Collingridge"
+subtitle: "**Eric W Salter**, Sun-Lim Choi, John Georgiou, Graham L Collingridge"
 tags: poster neuro
-session_id: nan
+session_id: B10
 visible: true
 ---
 **<sup>1,2</sup>Eric W Salter**, <sup>1,2</sup>Sun-Lim Choi, <sup>1,2</sup>John Georgiou, <sup>1,2</sup>Graham L Collingridge

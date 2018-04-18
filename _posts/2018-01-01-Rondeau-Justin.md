@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Progesterone Receptor Isoforms PRA and PRB Differentially Regulate Connexin 43 Expression and Intracellular Distribution in Breast Cancer Cells
-
 "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "Justin Rondeau, Lubna Nadeem, Stephen Lye"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Justin Rondeau**, Lubna Nadeem, Stephen Lye"
+tags: poster repro
+session_id: R8
+visible: true
 ---
 **<sup>1,2</sup>Justin Rondeau**, <sup>1</sup>Lubna Nadeem, <sup>1,2,3</sup>Stephen Lye
 

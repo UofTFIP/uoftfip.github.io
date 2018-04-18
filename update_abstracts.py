@@ -23,7 +23,7 @@ def get_sheet(year=2018):
     df = pd.DataFrame(a.get_all_values()[1:], columns=a.get_all_values()[0])
     new_names = ['Status', 'Session_ID', 'Timestamp', 'Email', 'Last Name',
        'First Name', 'Supervisor', 'Co-Supervisor', 'Position', 'Platform', 'Restrictions',
-       'Submitting', 'Authors', 'Affiliations', 'Abstract Title', 'Abstract', 'Preference', 'Required', 'Fip Comm']
+       'Submitting', 'Authors', 'Affiliations', 'Abstract Title', 'Abstract', 'Preference', 'Required', 'Fip Comm', 'na', 'na', 'na', 'na']
     df.columns = new_names
     df.replace('', np.nan, inplace=True)
     df.dropna(axis=0,how='all', inplace=True)
@@ -105,8 +105,10 @@ class Abstract(Attendee):
                 author = '**<sup>{}</sup>{}**'.format(','.join(i[1:]).strip(), i[0])
             else:
                 author = '<sup>{}</sup>{}'.format(','.join(i[1:]).strip(), i[0])
+                author_only = '**{}**'.format(i[0])
             authors_parsed.append(author)
         self.authors_parsed = ", ".join(authors_parsed)
+        self.authors[0][0] = "**" + self.authors[0][0] + "**"
         self.just_authors = ', '.join([i[0] for i in self.authors])
         self.affiliations_parsed = u"__{}__\n".format(u"; ".join(self.affiliations))
         self.header = '''---
@@ -123,6 +125,8 @@ visible: {}
 '''.format(self.title, self.platform_code, self.just_authors, self.tags, self.session, str(self.pending).lower())
         self.post = self.header + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
+        self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"
+        self.short = unicode(self.short)
         self.just_abstract = '### ' + self.title + "\n\n" + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.just_abstract = unicode(self.just_abstract)
 

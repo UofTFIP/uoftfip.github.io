@@ -4,10 +4,10 @@ title: "Autophagy Related Protein 16L1 (Atg16L1) Depletion Induces Insulin Resis
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "Scott Frendo-Cumbo, Javier Jaldin-Fincati, John H Brumell, Amira Klip"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Scott Frendo-Cumbo**, Javier Jaldin-Fincati, John H Brumell, Amira Klip"
+tags: poster endo
+session_id: E11
+visible: true
 ---
 **<sup>1,2</sup>Scott Frendo-Cumbo**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1,3</sup>John H Brumell, <sup>1,2</sup>Amira Klip
 

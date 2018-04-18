@@ -4,12 +4,12 @@ title: "SIRT3 – Sex Specific Role in Behaviour? "
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Elena Sidorova, Richard Logan, James Eubanks 1"
+subtitle: "**Elena Sidorova**, Richard Logan, James Eubanks"
 tags: oral neuro
-session_id: 2-2
+session_id: 1.2
 visible: true
 ---
-**<sup>1,2,3</sup>Elena Sidorova**, <sup>2</sup>Richard Logan, <sup>2,3</sup>James Eubanks 1
+**<sup>1,2,3</sup>Elena Sidorova**, <sup>2</sup>Richard Logan, <sup>1,2,3</sup>James Eubanks
 
 __1 Dept. of Physiology, University of Toronto; 2 Div. of Genetics and Development, Krembil Research Institute; 3 Institute of Medical Science, University of Toronto__
 

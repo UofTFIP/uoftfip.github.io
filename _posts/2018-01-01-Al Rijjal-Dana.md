@@ -4,9 +4,9 @@ title: "Acute Exposure to Fish Oil Supplements Protect High Fat Diet Impaired Pa
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "Dana Al Rijjal, Ying Liu, Michael Wheeler"
+subtitle: "**Dana Al Rijjal**, Ying Liu, Michael Wheeler"
 tags: oral endo
-session_id: 3-1
+session_id: 2.3
 visible: true
 ---
 **<sup>1</sup>Dana Al Rijjal**, <sup>1</sup>Ying Liu, <sup>1</sup>Michael Wheeler

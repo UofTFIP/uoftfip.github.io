@@ -4,12 +4,12 @@ title: "Measurement and modulation of the excitability of a brainstem motoneuron
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Jasmin A. Aggarwal, Hattie Liu, Gaspard Montandon, Richard L. Horner 1"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Jasmin A. Aggarwal**, Hattie Liu, Gaspard Montandon, Richard L. Horner"
+tags: poster neuro
+session_id: B2
+visible: true
 ---
-**<sup>1</sup>Jasmin A. Aggarwal**, <sup>2</sup>Hattie Liu, <sup>2,3</sup>Gaspard Montandon, <sup>2</sup>Richard L. Horner 1
+**<sup>1</sup>Jasmin A. Aggarwal**, <sup>2</sup>Hattie Liu, <sup>2,3</sup>Gaspard Montandon, <sup>1,2</sup>Richard L. Horner
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Medicine, University of Toronto; 3 Keenan Research Centre for Biomedical Science, St. Michael’s Hospital, Toronto, Ontario, Canada__
 

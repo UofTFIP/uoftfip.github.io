@@ -4,9 +4,9 @@ title: "Degradation of Phospholamban mutants in cardiac muscle cells"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
-subtitle: "Xavier Lee, Allen C.T. Teng, Anthony Gramolini"
+subtitle: "**Xavier Lee**, Allen C.T. Teng, Anthony Gramolini"
 tags: poster cardio
-session_id: nan
+session_id: C4
 visible: true
 ---
 **<sup>1,2</sup>Xavier Lee**, <sup>1,2</sup>Allen C.T. Teng, <sup>1,2</sup>Anthony Gramolini

@@ -4,10 +4,10 @@ title: "Antenatal synthetic glucocorticoid exposure modifies gene expression at 
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "Margaret E. Eng, Alice Kostaki, Stephen G. Matthews"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Margaret E. Eng**, Alice Kostaki, Stephen G. Matthews"
+tags: poster repro
+session_id: R10
+visible: true
 ---
 **<sup>1</sup>Margaret E. Eng**, <sup>1</sup>Alice Kostaki, <sup>1,2</sup>Stephen G. Matthews
 

@@ -4,10 +4,10 @@ title: "Multiplexed Coding Using Differentially Synchronized Spikes"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Dhekra Al-Basha, Milad Lankarany, Stephanie Ratté, Steven A. Prescott"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Dhekra Al-Basha**, Milad Lankarany, Stephanie Ratté, Steven A. Prescott"
+tags: poster neuro
+session_id: B17
+visible: true
 ---
 **<sup>1,2</sup>Dhekra Al-Basha**, <sup>1-3</sup>Milad Lankarany, <sup>1-3</sup>Stephanie Ratté, <sup>1-3</sup>Steven A. Prescott
 

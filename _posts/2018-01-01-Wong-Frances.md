@@ -4,10 +4,10 @@ title: "Meta analysis of microarray data of BMP4 treated human embryonic stem ce
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
-subtitle: "Frances Wong, Brian Cox"
-tags: 
-session_id: nan
-visible: false
+subtitle: "**Frances Wong**, Brian Cox"
+tags: poster repro
+session_id: R4
+visible: true
 ---
 **<sup>1</sup>Frances Wong**, <sup>1,2</sup>Brian Cox
 

@@ -4,9 +4,9 @@ title: "Neuropathic pain caused by Cl- dysregulation in both sexes; overcoming d
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Josiane C.S. Mapplebeck, Louis-Etienne Lorenzo, Kwan Lee, Yves De Koninck, Steve A. Prescott, Michael W. Salter"
+subtitle: "**Josiane C.S. Mapplebeck**, Louis-Etienne Lorenzo, Kwan Lee, Yves De Koninck, Steve A. Prescott, Michael W. Salter"
 tags: poster neuro
-session_id: nan
+session_id: B12
 visible: true
 ---
 **<sup>1-3</sup>Josiane C.S. Mapplebeck**, <sup>4</sup>Louis-Etienne Lorenzo, <sup>1</sup>Kwan Lee, <sup>4,5</sup>Yves De Koninck, <sup>1-3,6</sup>Steve A. Prescott, <sup>1-3.</sup>Michael W. Salter

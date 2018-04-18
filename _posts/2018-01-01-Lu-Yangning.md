@@ -4,10 +4,10 @@ title: "How an asymmetric L1 motor circuit generates symmetrical motor output"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
-subtitle: "Yangning Lu, Asuka Guan, Daniel Witvliet, Ben Mulcahy, Jin Meng, Jun Meng, Quan Wen, Aravinthan Samuel, Mei Zhen"
-tags: 
-session_id: 4-3
-visible: false
+subtitle: "**Yangning Lu**, Asuka Guan, Daniel Witvliet, Ben Mulcahy, Jin Meng, Jun Meng, Quan Wen, Aravinthan Samuel, Mei Zhen"
+tags: oral neuro
+session_id: 3.4
+visible: true
 ---
 **<sup>1,3</sup>Yangning Lu**, <sup>1,3</sup>Asuka Guan, <sup>2,3</sup>Daniel Witvliet, <sup>3</sup>Ben Mulcahy, <sup>3</sup>Jin Meng, <sup>1,3</sup>Jun Meng, <sup>4</sup>Quan Wen, <sup>5</sup>Aravinthan Samuel, <sup>1,2,3</sup>Mei Zhen
 

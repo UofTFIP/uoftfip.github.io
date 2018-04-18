@@ -4,12 +4,12 @@ title: "Modeling pancreatic development using hESC and patient specific iPSC"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "Emily McGaugh, Simon Kelley, April Craft, Maria Cristina Nostro 1"
+subtitle: "**Emily McGaugh**, Simon Kelley, April Craft, Maria Cristina Nostro"
 tags: oral endo
-session_id: 1-3
+session_id: 1.3
 visible: true
 ---
-**<sup>1,2,3,4</sup>Emily McGaugh**, <sup>5</sup>Simon Kelley, <sup>6</sup>April Craft, <sup>2,3,4</sup>Maria Cristina Nostro 1
+**<sup>1,2,3,4</sup>Emily McGaugh**, <sup>5</sup>Simon Kelley, <sup>6</sup>April Craft, <sup>1,2,3,4</sup>Maria Cristina Nostro
 
 __1 Toronto General Hospital Research Institute; 2 University Health Network; 3 McEwen Centre for Regenerative Medicine; 4 Physiology Department, University of Toronto; 5 SickKids, Toronto; 6 Boston Children’s Hospital__
 

@@ -4,9 +4,9 @@ title: "NOD1 mediates insulin resistance in response to circulating free fatty a
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
-subtitle: "Sydney Rivers, Lucy Shu Nga Yeung, Yusaku Mori, Kenny Chan, Dana Philpott, Amira Klip, and Adria Giacca"
+subtitle: "**Sydney Rivers**, Lucy Shu Nga Yeung, Yusaku Mori, Kenny Chan, Dana Philpott, Amira Klip, and Adria Giacca"
 tags: poster endo
-session_id: nan
+session_id: E12
 visible: true
 ---
 **<sup>1</sup>Sydney Rivers**, <sup>1</sup>Lucy Shu Nga Yeung, <sup>1</sup>Yusaku Mori, <sup>1</sup>Kenny Chan, <sup>2</sup>Dana Philpott, <sup>1</sup>Amira Klip, <sup>1</sup>and Adria Giacca
