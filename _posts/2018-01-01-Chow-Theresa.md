@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Theresa Chow, Jennifer Whiteley, Ian Rogers"
-tags: oral repro
-session_id: 3.3 Oral_3
+tags: Oral_3 repro
+session_id: 3.3
 visible: true
 ---
 Oral 3 - 3.3

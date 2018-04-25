@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Anlong Jiang, Fang Liu"
-tags: poster neuro
-session_id: B18 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B18
 visible: true
 ---
 Poster Session 2 - B18

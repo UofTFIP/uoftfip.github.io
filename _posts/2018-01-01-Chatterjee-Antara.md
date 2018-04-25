@@ -6,8 +6,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Antara Chatterjee, Kartik Jhaveri, John Sled, Wendy Whittle, Stephen Lye, Oksana Shynlova"
-tags: oral repro
-session_id: 1.4 Oral_1
+tags: Oral_1 repro
+session_id: 1.4
 visible: true
 ---
 Oral 1 - 1.4

@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Liwei Zhou, June Guo, Hangjun Zhang, Scott Heximer, Adria Giacca"
-tags: poster endo
-session_id: E9 Poster_Session_2
+tags: Poster_Session_2 endo
+session_id: E9
 visible: true
 ---
 Poster Session 2 - E9

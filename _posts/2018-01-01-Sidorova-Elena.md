@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Elena Sidorova, Richard Logan, James Eubanks"
-tags: oral neuro
-session_id: 1.2 Oral_1
+tags: Oral_1 neuro
+session_id: 1.2
 visible: true
 ---
 Oral 1 - 1.2

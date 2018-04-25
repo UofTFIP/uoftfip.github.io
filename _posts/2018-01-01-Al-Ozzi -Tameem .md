@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Tameem M. Alozzi, Luis F. Botero Posada, Adriana L. Lopez Rios, William D. Hutchison"
-tags: poster neuro
-session_id: B3 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B3
 visible: true
 ---
 Poster Session 2 - B3

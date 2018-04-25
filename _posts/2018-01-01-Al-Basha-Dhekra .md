@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Dhekra Al-Basha, Milad Lankarany, Stephanie Ratté, Steven A. Prescott"
-tags: poster neuro
-session_id: B17 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B17
 visible: true
 ---
 Poster Session 2 - B17

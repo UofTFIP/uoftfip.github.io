@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Dylan Langburt, Scott Heximer"
-tags: poster cardio
-session_id: C6 Poster_Session_2
+tags: Poster_Session_2 cardio
+session_id: C6
 visible: true
 ---
 Poster Session 2 - C6

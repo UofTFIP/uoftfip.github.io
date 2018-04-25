@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Matthew N. Clemenzi, Erika K. Tse, Jennifer A. Chalmers, Neruja Loganathan, Ashkan Salehi, Alexandre Martchenko, Patricia L. Brubaker, Denise D. Belsham"
-tags: poster endo
-session_id: E6 Poster_Session_2
+tags: Poster_Session_2 endo
+session_id: E6
 visible: true
 ---
 Poster Session 2 - E6

@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Emily McGaugh, Simon Kelley, April Craft, Maria Cristina Nostro"
-tags: oral endo
-session_id: 1.3 Oral_1
+tags: Oral_1 endo
+session_id: 1.3
 visible: true
 ---
 Oral 1 - 1.3

@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Sina Hadipour-Lakmehsari, Amine Driouchi, Shin-Haw Lee, Uros Kuzmanov, Neal I. Callaghan, Craig A. Simmons, Chris M. Yip, Anthony O. Gramolini"
-tags: oral cardio
-session_id: 1.1 Oral_1
+tags: Oral_1 cardio
+session_id: 1.1
 visible: true
 ---
 Oral 1 - 1.1

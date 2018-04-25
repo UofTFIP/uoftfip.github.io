@@ -86,7 +86,7 @@ class Abstract(Attendee):
         self.req = True if 'yes' in req.lower() else False
         try:
             if self.pending:
-                self.tags = ' '.join([self.status.lower(), self.platform_code])
+                self.tags = ' '.join([self.poster, self.platform_code])
             else:
                 self.tags = ''
         except:
@@ -125,10 +125,10 @@ category: abstracts
 platform: "{}"
 subtitle: "{}"
 tags: {}
-session_id: {} {}
+session_id: {}
 visible: {}
 ---
-'''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, self.poster, str(self.pending).lower())
+'''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, str(self.pending).lower())
         self.post = self.header + " ".join(self.poster.split("_")) + " - " + self.session + "\n\n" + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
         self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"

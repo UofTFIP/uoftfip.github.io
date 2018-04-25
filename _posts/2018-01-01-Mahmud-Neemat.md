@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Neemat Mahmud, Mekayla A. Storer, Scott A. Yuzwa, Michael J. Borrett, Dina Karamboulas, David R. Kaplan, Freda D. Miller"
-tags: poster neuro
-session_id: B11 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B11
 visible: true
 ---
 Poster Session 2 - B11

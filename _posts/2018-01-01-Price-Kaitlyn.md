@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Kaitlyn Price, Karen G Wigg, Virginia Misener, Kirsten Blokland, Elizabeth Kerr, Sharon Guger, Maureen W Lovett, Cathy L Barr"
-tags: poster neuro
-session_id: B6 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B6
 visible: true
 ---
 Poster Session 2 - B6

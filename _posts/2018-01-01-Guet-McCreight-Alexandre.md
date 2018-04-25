@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Alexandre Guet-McCreight, Lisa Topolnik, Frances K. Skinner"
-tags: poster neuro
-session_id: B22 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B22
 visible: true
 ---
 Poster Session 2 - B22

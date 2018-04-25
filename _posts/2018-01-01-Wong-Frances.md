@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Frances Wong, Brian Cox"
-tags: poster repro
-session_id: R4 Poster_Session_2
+tags: Poster_Session_2 repro
+session_id: R4
 visible: true
 ---
 Poster Session 2 - R4

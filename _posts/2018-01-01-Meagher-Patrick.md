@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Patrick Meagher BSc (Honours), Robert Civitarese MSc, Jean-Francios Desjardin MSc, Golam Kabir Msc MD, Kim Connelly MBBS PhD"
-tags: poster cardio
-session_id: C2 Poster_Session_2
+tags: Poster_Session_2 cardio
+session_id: C2
 visible: true
 ---
 Poster Session 2 - C2

@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Yangning Lu, Asuka Guan, Daniel Witvliet, Ben Mulcahy, Jin Meng, Jun Meng, Quan Wen, Aravinthan Samuel, Mei Zhen"
-tags: oral neuro
-session_id: 3.4 Oral_3
+tags: Oral_3 neuro
+session_id: 3.4
 visible: true
 ---
 Oral 3 - 3.4

@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Neruja Loganathan, Emma McIlwraith, Denise Belsham"
-tags: poster endo
-session_id: E3 Poster_Session_2
+tags: Poster_Session_2 endo
+session_id: E3
 visible: true
 ---
 Poster Session 2 - E3

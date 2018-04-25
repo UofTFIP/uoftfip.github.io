@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Ashkan Salehi, Denise D. Belsham"
-tags: poster endo
-session_id: E1 Poster_Session_2
+tags: Poster_Session_2 endo
+session_id: E1
 visible: true
 ---
 Poster Session 2 - E1

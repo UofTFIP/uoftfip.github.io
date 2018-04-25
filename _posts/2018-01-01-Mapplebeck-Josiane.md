@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Josiane C.S. Mapplebeck, Louis-Etienne Lorenzo, Kwan Lee, Yves De Koninck, Steve A. Prescott, Michael W. Salter"
-tags: poster neuro
-session_id: B12 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B12
 visible: true
 ---
 Poster Session 2 - B12

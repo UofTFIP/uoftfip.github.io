@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Paige V. Bauer, Frank A. Duca, T. M. Zaved Waise, Helen J. Dranse, Brittany A. Rasmussen, Akshita Puri, Mozhgan Rasti, Catherine A. O’Brien, Tony K. T. Lam"
-tags: poster endo
-session_id: E15 Poster_Session_2
+tags: Poster_Session_2 endo
+session_id: E15
 visible: true
 ---
 Poster Session 2 - E15

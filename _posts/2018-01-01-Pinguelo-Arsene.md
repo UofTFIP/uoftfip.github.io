@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Arsène Pinguelo, Sean C. Haffey, Irene Lecker, Yu-Feng Xie, Dian-Shi Wang, Beverley A. Orser"
-tags: poster neuro
-session_id: B20 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B20
 visible: true
 ---
 Poster Session 2 - B20

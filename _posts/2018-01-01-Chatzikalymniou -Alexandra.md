@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Alexandra Chatzikalymniou, Frances Skinner"
-tags: poster neuro
-session_id: B19 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B19
 visible: true
 ---
 Poster Session 2 - B19

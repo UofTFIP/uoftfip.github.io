@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Sonja Stojanovski, Arash Nazeri, Christian Lepage, Aristotle Voineskos, Anne L Wheeler"
-tags: poster neuro
-session_id: B25 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B25
 visible: true
 ---
 Poster Session 2 - B25

@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Ursula Nosi, Fredrik Lanner, Brian Cox"
-tags: oral repro
-session_id: 2.4 Oral_2
+tags: Oral_2 repro
+session_id: 2.4
 visible: true
 ---
 Oral 2 - 2.4

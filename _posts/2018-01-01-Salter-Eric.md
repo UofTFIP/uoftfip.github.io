@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Eric W Salter, Sun-Lim Choi, John Georgiou, Graham L Collingridge"
-tags: poster neuro
-session_id: B10 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B10
 visible: true
 ---
 Poster Session 2 - B10

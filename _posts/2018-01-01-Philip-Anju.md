@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Anju M Philip, Patricia Gali, Yuexin Shan, Claudia dosSantos, Xiao-Yan Wen"
-tags: poster cardio
-session_id: C10 Poster_Session_2
+tags: Poster_Session_2 cardio
+session_id: C10
 visible: true
 ---
 Poster Session 2 - C10

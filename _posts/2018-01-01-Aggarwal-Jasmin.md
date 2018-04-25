@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Jasmin A. Aggarwal, Hattie Liu, Gaspard Montandon, Richard L. Horner"
-tags: poster neuro
-session_id: B2 Poster_Session_2
+tags: Poster_Session_2 neuro
+session_id: B2
 visible: true
 ---
 Poster Session 2 - B2

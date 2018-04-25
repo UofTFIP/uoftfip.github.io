@@ -5,8 +5,8 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Aisha Mohamed, Theresa Chow, Tonya Bongolan, Amanda Fantin, Jennifer Whiteley, Ian Rogers"
-tags: poster repro
-session_id: R12 Poster_Session_2
+tags: Poster_Session_2 repro
+session_id: R12
 visible: true
 ---
 Poster Session 2 - R12
