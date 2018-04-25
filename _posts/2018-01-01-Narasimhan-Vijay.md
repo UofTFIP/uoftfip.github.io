@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Vijay Narasimhan, Jane Foster, Sidney Kennedy, Xiao-Yan Wen"
-tags: Poster_Session_2 neuro
+tags: Poster_Session_1 neuro
 session_id: B23
 visible: true
 ---
-Poster Session 2 - B23
+Poster Session 1 - B23
 
 **<sup>1</sup>Vijay Narasimhan**, <sup>2</sup>Jane Foster, <sup>1,2</sup>Sidney Kennedy, <sup>1,3</sup>Xiao-Yan Wen
 

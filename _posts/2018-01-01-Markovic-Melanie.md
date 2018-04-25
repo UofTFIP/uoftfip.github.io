@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Melanie A Markovic, Patricia L Brubaker"
-tags: Poster_Session_2 endo
+tags: Poster_Session_1 endo
 session_id: E7
 visible: true
 ---
-Poster Session 2 - E7
+Poster Session 1 - E7
 
 **<sup>1</sup>Melanie A Markovic**, <sup>1,2</sup>Patricia L Brubaker
 

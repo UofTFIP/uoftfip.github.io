@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Haisam Shah, Shafkat Choudhury, Hangjun Zhang, Meghan McFadden, Yuqing Zhou, Anthony Gramolini, Scott Heximer"
-tags: Poster_Session_2 cardio
+tags: Poster_Session_1 cardio
 session_id: C3
 visible: true
 ---
-Poster Session 2 - C3
+Poster Session 1 - C3
 
 **<sup>1,2</sup>Haisam Shah**, <sup>1,3</sup>Shafkat Choudhury, <sup>1</sup>Hangjun Zhang, <sup>1</sup>Meghan McFadden, <sup>1</sup>Yuqing Zhou, <sup>1,2,4</sup>Anthony Gramolini, <sup>1,2,4</sup>Scott Heximer
 

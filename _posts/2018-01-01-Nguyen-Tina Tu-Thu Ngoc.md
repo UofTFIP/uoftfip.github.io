@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Tina Tu-Thu Ngoc Nguyen, Stewart J. Russell, Clifford Librach"
-tags: Poster_Session_2 repro
+tags: Poster_Session_1 repro
 session_id: R7
 visible: true
 ---
-Poster Session 2 - R7
+Poster Session 1 - R7
 
 **<sup>1,2</sup>Tina Tu-Thu Ngoc Nguyen**, <sup>1</sup>Stewart J. Russell, <sup>1,2,3,4,5</sup>Clifford Librach
 

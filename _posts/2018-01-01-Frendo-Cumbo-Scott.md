@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Scott Frendo-Cumbo, Javier Jaldin-Fincati, John H Brumell, Amira Klip"
-tags: Poster_Session_2 endo
+tags: Poster_Session_1 endo
 session_id: E11
 visible: true
 ---
-Poster Session 2 - E11
+Poster Session 1 - E11
 
 **<sup>1,2</sup>Scott Frendo-Cumbo**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1,3</sup>John H Brumell, <sup>1,2</sup>Amira Klip
 

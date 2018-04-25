@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Aeen Ebrahim Amini, John Georgiou, Changiz Taghibiglou, Graham L. Collingridge"
-tags: Poster_Session_2 neuro
+tags: Poster_Session_1 neuro
 session_id: B1
 visible: true
 ---
-Poster Session 2 - B1
+Poster Session 1 - B1
 
 **<sup>1,3</sup>Aeen Ebrahim Amini**, <sup>1</sup>John Georgiou, <sup>2</sup>Changiz Taghibiglou, <sup>1,3</sup>Graham L. Collingridge
 

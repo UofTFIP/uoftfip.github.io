@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Tali Farine, Oksana Shynlova, Stephen Lye"
-tags: Poster_Session_2 repro
+tags: Poster_Session_1 repro
 session_id: R9
 visible: true
 ---
-Poster Session 2 - R9
+Poster Session 1 - R9
 
 **<sup>1,2</sup>Tali Farine**, <sup>2,3</sup>Oksana Shynlova, <sup>1,2,3,4</sup>Stephen Lye
 

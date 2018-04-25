@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Andrew Biancolin, Emilia Mitova, Patricia Brubaker"
-tags: Poster_Session_2 endo
+tags: Poster_Session_1 endo
 session_id: E5
 visible: true
 ---
-Poster Session 2 - E5
+Poster Session 1 - E5
 
 **<sup>1</sup>Andrew Biancolin**, <sup>1</sup>Emilia Mitova, <sup>1,2</sup>Patricia Brubaker
 

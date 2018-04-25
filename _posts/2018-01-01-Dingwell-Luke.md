@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "cardio"
 subtitle: "Luke S Dingwell, Eric A Shikatani, Rickvinder Besla, Andrew S Levy, Danny Dinh, Abdul Momen, Hangjun Zhang, Talat Afroze, Michelle B Chen, Nicholas Maksimowski, Craig A Simmons, Filio Billia, Jennifer L Gommerman, Rohan John, Scott  Heximer, James Scholey, Steffen-Sebastian Bolz, Clinton Robbins, Mansoor Husain"
-tags: Poster_Session_2 cardio
+tags: Poster_Session_1 cardio
 session_id: C5
 visible: true
 ---
-Poster Session 2 - C5
+Poster Session 1 - C5
 
 **<sup>1-2</sup>Luke S Dingwell**, <sup>1,3</sup>Eric A Shikatani, <sup>3</sup>Rickvinder Besla, <sup>4</sup>Andrew S Levy, <sup>4</sup>Danny Dinh, <sup>1</sup>Abdul Momen, <sup>4</sup>Hangjun Zhang, <sup>1</sup>Talat Afroze, <sup>5</sup>Michelle B Chen, <sup>4</sup>Nicholas Maksimowski, <sup>5</sup>Craig A Simmons, <sup>1</sup>Filio Billia, <sup>6</sup>Jennifer L Gommerman, <sup>3</sup>Rohan John, <sup>4</sup>Scott  Heximer, <sup>4</sup>James Scholey, <sup>4</sup>Steffen-Sebastian Bolz, <sup>3,6</sup>Clinton Robbins, <sup>1-4,7\*</sup>Mansoor Husain
 

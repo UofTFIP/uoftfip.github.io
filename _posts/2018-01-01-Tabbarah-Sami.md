@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "neuro"
 subtitle: "Sami Tabbarah, Jason Charish, Shuning Li, Yui Yin, Erika Tavares, Ajoy Vincent, Elise Heon, Philippe Monnier"
-tags: Poster_Session_2 neuro
+tags: Poster_Session_1 neuro
 session_id: B13
 visible: true
 ---
-Poster Session 2 - B13
+Poster Session 1 - B13
 
 **<sup>1</sup>Sami Tabbarah**, <sup>2</sup>Jason Charish, <sup>2</sup>Shuning Li, <sup>2</sup>Yui Yin, <sup>3</sup>Erika Tavares, <sup>3</sup>Ajoy Vincent, <sup>1,\*</sup>Elise Heon, <sup>1,\*</sup>Philippe Monnier
 

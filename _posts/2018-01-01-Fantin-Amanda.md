@@ -5,11 +5,11 @@ header-img: "img/banner.jpg"
 category: abstracts
 platform: "repro"
 subtitle: "Amanda Fantin, Jennifer Whiteley, Ian Rogers"
-tags: Poster_Session_2 repro
+tags: Poster_Session_1 repro
 session_id: R11
 visible: true
 ---
-Poster Session 2 - R11
+Poster Session 1 - R11
 
 **<sup>1,2</sup>Amanda Fantin**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 

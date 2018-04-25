@@ -76,7 +76,7 @@ class Abstract(Attendee):
             self.session = session
 
         if ampm in ['1','2']:
-            self.poster = "Poster_Session_1" if ampm == 1 else "Poster_Session_2"
+            self.poster = "Poster_Session_1" if ampm == '1' else "Poster_Session_2"
         elif ampm in ['Oral 1', 'Oral 2', 'Oral 3']:
             self.poster = "_".join(ampm.split())
         else:
