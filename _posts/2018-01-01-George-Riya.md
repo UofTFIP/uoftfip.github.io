@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Riya George, Michelle French"
 tags: poster neuro
-session_id: B14
+session_id: B14 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Riya George**, <sup>1</sup>Michelle French

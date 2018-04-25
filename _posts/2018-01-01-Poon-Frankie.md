@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Frankie Poon, Roman Korytnikov, Cristina Nostro"
 tags: poster endo
-session_id: E13
+session_id: E13 Poster_Session_2
 visible: true
 ---
 **<sup>1,2,3</sup>Frankie Poon**, <sup>1,2,3</sup>Roman Korytnikov, <sup>1,2,3</sup>Cristina Nostro

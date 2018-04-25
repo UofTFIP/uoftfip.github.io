@@ -9,6 +9,8 @@ Frontiers in Physiology (FIP) is the Department of Physiology's annual research 
 
 We are thrilled to welcome Dr. Mona Nemer, a distinguished cardiac researcher and Canada's Chief Science Advisor, as our Keynote Speaker. Dr. Nemer's work focuses on the molecular mechanisms of heart development and function, heart failure, and congenital heart disease.
 
+Click [here](https://www.dropbox.com/s/6y2nrkyqs80t7y6/FIP2018_Booklet_print_version%29_april24_6pm.pdf?dl=0) for the FIP2018 Abstract Booklet.
+
 To see how it went last year, check out our FIP2017 recap video:
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/HKkefvmOOFI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>

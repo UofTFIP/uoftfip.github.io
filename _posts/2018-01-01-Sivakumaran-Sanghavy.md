@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Sanghavy Sivakumaran, Daniel W. Sparks, Evelyn K. Lambe"
 tags: poster neuro
-session_id: B7
+session_id: B7 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Sanghavy Sivakumaran**, <sup>1</sup>Daniel W. Sparks, <sup>1,2,3</sup>Evelyn K. Lambe

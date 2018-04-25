@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Emma McIlwraith, Neruja Loganathan, Denise D. Belsham"
 tags: poster repro
-session_id: R2
+session_id: R2 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Emma McIlwraith**, <sup>1</sup>Neruja Loganathan, <sup>1,2</sup>Denise D. Belsham

@@ -6,7 +6,7 @@ category: abstracts
 platform: "cardio"
 subtitle: "Xavier Lee, Allen C.T. Teng, Anthony Gramolini"
 tags: poster cardio
-session_id: C4
+session_id: C4 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Xavier Lee**, <sup>1,2</sup>Allen C.T. Teng, <sup>1,2</sup>Anthony Gramolini

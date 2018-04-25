@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Anlong Jiang, Fang Liu"
 tags: poster neuro
-session_id: B18
+session_id: B18 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Anlong Jiang**, <sup>1,2,3</sup>Fang Liu

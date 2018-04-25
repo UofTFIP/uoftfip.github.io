@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Sridevi Venkatesan, Daniel W. Sparks, Evelyn K. Lambe"
 tags: poster neuro
-session_id: B16
+session_id: B16 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Sridevi Venkatesan**, <sup>1</sup>Daniel W. Sparks, <sup>1,2</sup>Evelyn K. Lambe

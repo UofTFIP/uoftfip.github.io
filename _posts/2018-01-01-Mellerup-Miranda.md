@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Miranda Mellerup, Lisa Gazdzinski, John Sled, Anne Wheeler"
 tags: poster neuro
-session_id: B24
+session_id: B24 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Miranda Mellerup**, <sup>2</sup>Lisa Gazdzinski, <sup>2,3</sup>John Sled, <sup>1,2</sup>Anne Wheeler

@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Vijay Narasimhan, Jane Foster, Sidney Kennedy, Xiao-Yan Wen"
 tags: poster neuro
-session_id: B23
+session_id: B23 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Vijay Narasimhan**, <sup>2</sup>Jane Foster, <sup>1,2</sup>Sidney Kennedy, <sup>1,3</sup>Xiao-Yan Wen

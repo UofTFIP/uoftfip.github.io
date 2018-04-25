@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Dana Al Rijjal, Ying Liu, Michael Wheeler"
 tags: oral endo
-session_id: 2.3
+session_id: 2.3 Oral 2
 visible: true
 ---
 **<sup>1</sup>Dana Al Rijjal**, <sup>1</sup>Ying Liu, <sup>1</sup>Michael Wheeler

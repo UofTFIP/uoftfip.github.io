@@ -23,7 +23,7 @@ def get_sheet(year=2018):
     df = pd.DataFrame(a.get_all_values()[1:], columns=a.get_all_values()[0])
     new_names = ['Status', 'Session_ID', 'Timestamp', 'Email', 'Last Name',
        'First Name', 'Supervisor', 'Co-Supervisor', 'Position', 'Platform', 'Restrictions',
-       'Submitting', 'Authors', 'Affiliations', 'Abstract Title', 'Abstract', 'Preference', 'Required', 'Fip Comm', 'na', 'na', 'na', 'na']
+       'Submitting', 'Authors', 'Affiliations', 'Abstract Title', 'Abstract', 'Preference', 'Required', 'na', 'na', 'Poster Session']
     df.columns = new_names
     df.replace('', np.nan, inplace=True)
     df.dropna(axis=0,how='all', inplace=True)
@@ -35,15 +35,17 @@ def make_entry(row):
     if row['Submitting'] == 'Yes':
         attendee = Abstract(row['First Name'], row['Last Name'], row['Email'],
             row['Status'], row['Platform'], row['Short_Platform'], row['Position'],
-            row['Session_ID'], row['Authors'], row['Affiliations'], row['Abstract Title'], row['Abstract'],row['Fip Comm'], row['Preference'], row['Required'])
+            row['Session_ID'], row['Authors'], row['Affiliations'],
+            row['Abstract Title'], row['Abstract'], row['Preference'], row['Required'],
+            row['Poster Session'])
     else:
         attendee = Attendee(row['First Name'], row['Last Name'], row['Email'],
-            row['Status'], row['Platform'], row['Short_Platform'], row['Position'], row['Fip Comm'])
+            row['Status'], row['Platform'], row['Short_Platform'], row['Position'])
     return attendee
 
 
 class Attendee(object):
-    def __init__(self, first, last, email, status, platform, platform_code, position, comm):
+    def __init__(self, first, last, email, status, platform, platform_code, position):
         self.first = first
         self.last = last
         self.email = email
@@ -54,16 +56,7 @@ class Attendee(object):
         self.platform = platform
         self.platform_code = platform_code
         self.position = position
-        self.committee = unicode(comm)
-        if self.committee in ['GASP VP, Co-Organizer', 'FIP Committee']:
-            self.img = 'http://sites.utoronto.ca/gasp/images/{}.jpg'.format(self.first.lower())
-            self.blurb = '''- name: "{} {}, {}"
-  type: "Planning Committee"
-  platform: "{}"
-
-'''.format(
-                self.first, self.last, self.committee, self.platform)
-        elif self.status.lower() in ['poster', 'oral']:
+        if self.status.lower() in ['poster', 'oral']:
             self.blurb = '''- name: "{} {}"
   type: "Presenters"
   platform: "{}"
@@ -73,18 +66,26 @@ class Attendee(object):
 
 class Abstract(Attendee):
     def __init__(self, first, last, email, status, platform, platform_code, position,
-                    session, authors, affiliations, title, abstract, comm, pref, req):
-        Attendee.__init__(self, first, last, email, status, platform, platform_code, position, comm)
+                    session, authors, affiliations, title, abstract, pref, req, ampm):
+        Attendee.__init__(self, first, last, email, status, platform, platform_code, position)
         #false set to visible is false, true if visible true
         self.pending = self.status.lower() != 'pending'
         self.session = session
+        if ampm in ['1','2']:
+            self.poster = "Poster_Session_1" if ampm == 1 else "Poster_Session_2"
+        elif ampm in ['Oral 1', 'Oral 2', 'Oral 3']:
+            self.poster = ampm
+        else:
+            self.poster = ''
         #presentation preference
         self.pref = 'oral' if 'poster only' not in pref.lower() else 'poster'
         self.req = True if 'yes' in req.lower() else False
-
-        if self.pending:
-            self.tags = ' '.join([self.status.lower(), self.platform_code])
-        else:
+        try:
+            if self.pending:
+                self.tags = ' '.join([self.status.lower(), self.platform_code])
+            else:
+                self.tags = ''
+        except:
             self.tags = ''
         #parse authors/affiliations
         try:
@@ -120,10 +121,10 @@ category: abstracts
 platform: "{}"
 subtitle: "{}"
 tags: {}
-session_id: {}
+session_id: {} {}
 visible: {}
 ---
-'''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, str(self.pending).lower())
+'''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, self.poster, str(self.pending).lower())
         self.post = self.header + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
         self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"
@@ -131,10 +132,6 @@ visible: {}
         self.just_abstract = '### ' + self.title + "\n\n" + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.just_abstract = unicode(self.just_abstract)
 
-
-a = True
-
-str(a).lower()
 
 def parse_sheet(df):
     #recode all platforms into shortform

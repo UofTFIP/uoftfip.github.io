@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Kyunga Kim, Andrea Jurisicova"
 tags: poster repro
-session_id: R3
+session_id: R3 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Kyunga Kim**, <sup>1,2,3</sup>Andrea Jurisicova

@@ -6,7 +6,7 @@ category: abstracts
 platform: "cardio"
 subtitle: "Dylan Langburt, Scott Heximer"
 tags: poster cardio
-session_id: C6
+session_id: C6 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Dylan Langburt**, <sup>1,2,3</sup>Scott Heximer

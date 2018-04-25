@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Aeen Ebrahim Amini, John Georgiou, Changiz Taghibiglou, Graham L. Collingridge"
 tags: poster neuro
-session_id: B1
+session_id: B1 Poster_Session_2
 visible: true
 ---
 **<sup>1,3</sup>Aeen Ebrahim Amini**, <sup>1</sup>John Georgiou, <sup>2</sup>Changiz Taghibiglou, <sup>1,3</sup>Graham L. Collingridge

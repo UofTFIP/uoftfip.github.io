@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Isidora Rovic, Han Li, Katherine Szelag, Andrea Jurisicova"
 tags: poster repro
-session_id: R5
+session_id: R5 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Isidora Rovic**, <sup>2</sup>Han Li, <sup>1,2</sup>Katherine Szelag, <sup>2,3</sup>Andrea Jurisicova

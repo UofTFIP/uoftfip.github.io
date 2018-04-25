@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Shahin Khodaei, Yu-Feng Xie, Dian-Shi Wang, Beverley Orser"
 tags: poster neuro
-session_id: B15
+session_id: B15 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Shahin Khodaei**, <sup>1</sup>Yu-Feng Xie, <sup>1</sup>Dian-Shi Wang, <sup>1,2,3</sup>Beverley Orser

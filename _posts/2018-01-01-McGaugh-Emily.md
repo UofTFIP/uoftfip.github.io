@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Emily McGaugh, Simon Kelley, April Craft, Maria Cristina Nostro"
 tags: oral endo
-session_id: 1.3
+session_id: 1.3 Oral 1
 visible: true
 ---
 **<sup>1,2,3,4</sup>Emily McGaugh**, <sup>5</sup>Simon Kelley, <sup>6</sup>April Craft, <sup>1,2,3,4</sup>Maria Cristina Nostro

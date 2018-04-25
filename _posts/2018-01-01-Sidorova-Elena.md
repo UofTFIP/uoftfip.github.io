@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Elena Sidorova, Richard Logan, James Eubanks"
 tags: oral neuro
-session_id: 1.2
+session_id: 1.2 Oral 1
 visible: true
 ---
 **<sup>1,2,3</sup>Elena Sidorova**, <sup>2</sup>Richard Logan, <sup>1,2,3</sup>James Eubanks

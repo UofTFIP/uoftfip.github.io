@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Amanda Fantin, Jennifer Whiteley, Ian Rogers"
 tags: poster repro
-session_id: R11
+session_id: R11 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Amanda Fantin**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers

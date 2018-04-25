@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Jhenielle Campbell, Patricia Brubaker"
 tags: poster endo
-session_id: E8
+session_id: E8 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Jhenielle Campbell**, <sup>1,2</sup>Patricia Brubaker

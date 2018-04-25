@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Victoria Tokarz, Javier Jaldin-Fincati, Zhi Liu, Amira Klip"
 tags: poster endo
-session_id: E2
+session_id: E2 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Victoria Tokarz**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1</sup>Zhi Liu, <sup>1,2</sup>Amira Klip

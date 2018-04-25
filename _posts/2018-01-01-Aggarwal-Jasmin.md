@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Jasmin A. Aggarwal, Hattie Liu, Gaspard Montandon, Richard L. Horner"
 tags: poster neuro
-session_id: B2
+session_id: B2 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Jasmin A. Aggarwal**, <sup>2</sup>Hattie Liu, <sup>2,3</sup>Gaspard Montandon, <sup>1,2</sup>Richard L. Horner

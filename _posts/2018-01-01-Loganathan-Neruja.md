@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Neruja Loganathan, Emma McIlwraith, Denise Belsham"
 tags: poster endo
-session_id: E3
+session_id: E3 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Neruja Loganathan**, <sup>1</sup>Emma McIlwraith, <sup>1,2,3</sup>Denise Belsham

@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Ashkan Salehi, Denise D. Belsham"
 tags: poster endo
-session_id: E1
+session_id: E1 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Ashkan Salehi**, <sup>1,2,3</sup>Denise D. Belsham

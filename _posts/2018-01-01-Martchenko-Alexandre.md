@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Alexandre Martchenko, Matthew Clemenzi, Patrick, Patricia L. Brubaker"
 tags: poster endo
-session_id: E10
+session_id: E10 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Alexandre Martchenko**, <sup>1</sup>Matthew Clemenzi, <sup>Gurges,1</sup>Patrick, <sup>1,2</sup>Patricia L. Brubaker

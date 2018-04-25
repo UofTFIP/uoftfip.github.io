@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Andrew Biancolin, Emilia Mitova, Patricia Brubaker"
 tags: poster endo
-session_id: E5
+session_id: E5 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Andrew Biancolin**, <sup>1</sup>Emilia Mitova, <sup>1,2</sup>Patricia Brubaker

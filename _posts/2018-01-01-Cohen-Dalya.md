@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Dalya Cohen, Zheng-Ping Jia, Graham Collingridge"
 tags: poster neuro
-session_id: B8
+session_id: B8 Poster_Session_2
 visible: true
 ---
 **<sup>1,2,3</sup>Dalya Cohen**, <sup>1,2</sup>Zheng-Ping Jia, <sup>1,3</sup>Graham Collingridge

@@ -6,7 +6,7 @@ category: abstracts
 platform: "endo"
 subtitle: "Zivit Fesler, Patricia L Brubaker"
 tags: oral endo
-session_id: 3.2
+session_id: 3.2 Oral 3
 visible: true
 ---
 **<sup>1</sup>Zivit Fesler**, <sup>1,2</sup>Patricia L Brubaker

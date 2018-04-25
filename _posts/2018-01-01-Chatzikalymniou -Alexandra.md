@@ -6,7 +6,7 @@ category: abstracts
 platform: "neuro"
 subtitle: "Alexandra Chatzikalymniou, Frances Skinner"
 tags: poster neuro
-session_id: B19
+session_id: B19 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Alexandra Chatzikalymniou**, <sup>2,1</sup>Frances Skinner

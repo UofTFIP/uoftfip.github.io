@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Tali Farine, Oksana Shynlova, Stephen Lye"
 tags: poster repro
-session_id: R9
+session_id: R9 Poster_Session_2
 visible: true
 ---
 **<sup>1,2</sup>Tali Farine**, <sup>2,3</sup>Oksana Shynlova, <sup>1,2,3,4</sup>Stephen Lye

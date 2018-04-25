@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Theresa Chow, Jennifer Whiteley, Ian Rogers"
 tags: oral repro
-session_id: 3.3
+session_id: 3.3 Oral 3
 visible: true
 ---
 **<sup>1,2</sup>Theresa Chow**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers

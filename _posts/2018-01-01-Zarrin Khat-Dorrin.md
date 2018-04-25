@@ -6,7 +6,7 @@ category: abstracts
 platform: "cardio"
 subtitle: "Dorrin Zarrin Khat, Abdul Momen, Muhammad A. Siraj, Sina Hadipour-Lakmehsari, Mark J. Chandy, Mansoor Husain"
 tags: poster cardio
-session_id: C8
+session_id: C8 Poster_Session_2
 visible: true
 ---
 **<sup>1</sup>Dorrin Zarrin Khat**, <sup>4</sup>Abdul Momen, <sup>4</sup>Muhammad A. Siraj, <sup>2</sup>Sina Hadipour-Lakmehsari, <sup>4</sup>Mark J. Chandy, <sup>1-5.</sup>Mansoor Husain

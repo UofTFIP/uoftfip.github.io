@@ -6,7 +6,7 @@ category: abstracts
 platform: "repro"
 subtitle: "Ursula Nosi, Fredrik Lanner, Brian Cox"
 tags: oral repro
-session_id: 2.4
+session_id: 2.4 Oral 2
 visible: true
 ---
 **<sup>1</sup>Ursula Nosi**, <sup>2</sup>Fredrik Lanner, <sup>1</sup>Brian Cox
