@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B3 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B3
+
 **<sup>1,3</sup>Tameem M. Alozzi**, <sup>5</sup>Luis F. Botero Posada, <sup>5</sup>Adriana L. Lopez Rios, <sup>1,2,3,4,5</sup>William D. Hutchison
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Surgery, University of Toronto; 3 Toronto Western Research Institute; 4 Division of Neurosurgery, Toronto Western Hospital, Toronto, ON, Canada; 5 Hospital Universitario De San Vicente FundaciÓn, MedellÍn, Antioquia, Colombia__

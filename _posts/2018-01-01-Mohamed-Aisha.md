@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R12 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R12
+
 **<sup>1,2</sup>Aisha Mohamed**, <sup>1,2</sup>Theresa Chow, <sup>1,2</sup>Tonya Bongolan, <sup>1,2</sup>Amanda Fantin, <sup>1</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 
 __1. Mount Sinai Hospital, LTRI, Toronto, Canada; 2. Department of Physiology University of Toronto, Canada; 3. Department of Obstetrics and Gynaecology, University of Toronto, Canada__

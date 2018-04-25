@@ -6,9 +6,11 @@ category: abstracts
 platform: "endo"
 subtitle: "Dana Al Rijjal, Ying Liu, Michael Wheeler"
 tags: oral endo
-session_id: 2.3 Oral 2
+session_id: 2.3 Oral_2
 visible: true
 ---
+Oral_2 - 2.3
+
 **<sup>1</sup>Dana Al Rijjal**, <sup>1</sup>Ying Liu, <sup>1</sup>Michael Wheeler
 
 __1, Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, ON, Canada__

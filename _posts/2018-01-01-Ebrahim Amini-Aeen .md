@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B1 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B1
+
 **<sup>1,3</sup>Aeen Ebrahim Amini**, <sup>1</sup>John Georgiou, <sup>2</sup>Changiz Taghibiglou, <sup>1,3</sup>Graham L. Collingridge
 
 __1 Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital; 2 Department of Pharmacology, University of Saskatchewan; 3 Department of Physiology, University of Toronto__

@@ -9,6 +9,8 @@ tags: poster cardio
 session_id: C8 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - C8
+
 **<sup>1</sup>Dorrin Zarrin Khat**, <sup>4</sup>Abdul Momen, <sup>4</sup>Muhammad A. Siraj, <sup>2</sup>Sina Hadipour-Lakmehsari, <sup>4</sup>Mark J. Chandy, <sup>1-5.</sup>Mansoor Husain
 
 __1 Departments of Laboratory Medicine & Pathobiology, 2 Physiology, 3 Heart & Stroke Richard Lewar Centre of Excellence, University of Toronto; 4 Toronto General Hospital Research Institute,5 Ted Rogers Centre for Heart Research, Toronto, ON, Canada__

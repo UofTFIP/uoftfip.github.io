@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R11 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R11
+
 **<sup>1,2</sup>Amanda Fantin**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 
 __1 Department of Physiology, University of Toronto, ON, Canada; 2 Women’s and Infant’s Health, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, ON, Canada; 3 Department of Obstetrics and Gynaecology, Mount Sinai Hospital and the University of Toronto, ON, Canada__

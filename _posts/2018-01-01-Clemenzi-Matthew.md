@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E6 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E6
+
 **<sup>1</sup>Matthew N. Clemenzi**, <sup>1</sup>Erika K. Tse, <sup>1</sup>Jennifer A. Chalmers, <sup>1</sup>Neruja Loganathan, <sup>1</sup>Ashkan Salehi, <sup>1</sup>Alexandre Martchenko, <sup>1,2</sup>Patricia L. Brubaker, <sup>1,2,3</sup>Denise D. Belsham
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Medicine, University of Toronto; 3 Dept. of Obstetrics and Gynaecology, University of Toronto__

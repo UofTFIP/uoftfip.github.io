@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B12 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B12
+
 **<sup>1-3</sup>Josiane C.S. Mapplebeck**, <sup>4</sup>Louis-Etienne Lorenzo, <sup>1</sup>Kwan Lee, <sup>4,5</sup>Yves De Koninck, <sup>1-3,6</sup>Steve A. Prescott, <sup>1-3.</sup>Michael W. Salter
 
 __1 Program in Neuroscience & Mental Health, Hospital for Sick Children, Canada; 2 Department of Physiology, University of Toronto, Canada; 3 University of Toronto Centre for the Study of Pain, Canada; 4 Quebec Mental Health Institute Research Center, Canada; 5 Department of Psychiatry and Neuroscience, Université Laval, Canada; 6 Institute of Biomaterials and Biomedical Engineering, University of Toronto, Canada__

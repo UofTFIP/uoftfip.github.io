@@ -10,6 +10,8 @@ tags: poster repro
 session_id: R8 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R8
+
 **<sup>1,2</sup>Justin Rondeau**, <sup>1</sup>Lubna Nadeem, <sup>1,2,3</sup>Stephen Lye
 
 __1 LTRI, Sinai Health System, Toronto; 2 Dept. of Physiology, University of Toronto; 3 Dept. of Obstetrics and Gynaecology, University of Toronto, Toronto, ON, Canada__

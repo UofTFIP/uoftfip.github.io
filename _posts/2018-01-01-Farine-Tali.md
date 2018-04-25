@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R9 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R9
+
 **<sup>1,2</sup>Tali Farine**, <sup>2,3</sup>Oksana Shynlova, <sup>1,2,3,4</sup>Stephen Lye
 
 __1 Department of Physiology, University of Toronto, ON, Canada; 2 Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, ON, Canada; 3 Department of Obstetrics, University of Toronto, ON, Canada; 4 Department of Gynecology, University of Toronto, ON, Canada__

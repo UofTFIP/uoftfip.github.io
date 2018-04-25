@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E13 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E13
+
 **<sup>1,2,3</sup>Frankie Poon**, <sup>1,2,3</sup>Roman Korytnikov, <sup>1,2,3</sup>Cristina Nostro
 
 __1 Toronto General Hospital Research Institute; 2 Department of Physiology, University of Toronto; 3 McEwen Centre for Regenerative Medicine__

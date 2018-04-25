@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B2 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B2
+
 **<sup>1</sup>Jasmin A. Aggarwal**, <sup>2</sup>Hattie Liu, <sup>2,3</sup>Gaspard Montandon, <sup>1,2</sup>Richard L. Horner
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Medicine, University of Toronto; 3 Keenan Research Centre for Biomedical Science, St. Michael’s Hospital, Toronto, Ontario, Canada__

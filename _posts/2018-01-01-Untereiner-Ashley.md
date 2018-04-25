@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "nan. γ-Aminobutyric acid (GABA) promotes beta-cell proliferation in mouse and human islets"
+title: ". γ-Aminobutyric acid (GABA) promotes beta-cell proliferation in mouse and human islets"
 header-img: "img/banner.jpg"
 category: abstracts
 platform: "endo"
 subtitle: "Ashley Untereiner, Shaaban Abdo, Alpana Bhattacharjee, Himaben Gohil, Farzaneh Pourasgari, Neke Ibeh, Mi Lai, Anthony Wong, Nicholas Khuu, Ying Liu, Neil Winegarden, Carl Virtanen, Feihan F. Dai, Michael B. Wheeler"
 tags: 
-session_id: nan 
+session_id:  
 visible: false
 ---
+ - 
+
 **<sup>1\*</sup>Ashley Untereiner**, <sup>1\*</sup>Shaaban Abdo, <sup>2</sup>Alpana Bhattacharjee, <sup>1</sup>Himaben Gohil, <sup>2</sup>Farzaneh Pourasgari, <sup>4</sup>Neke Ibeh, <sup>2</sup>Mi Lai, <sup>1</sup>Anthony Wong, <sup>3</sup>Nicholas Khuu, <sup>2</sup>Ying Liu, <sup>3</sup>Neil Winegarden, <sup>4</sup>Carl Virtanen, <sup>1,2</sup>Feihan F. Dai, <sup>1,2</sup>Michael B. Wheeler
 
 __1 Department of Physiology, University of Toronto, Toronto, Ontario, M5S 1A8 Canada; 2 Toronto General Hospital Research Institute, University Health Network, 101 College Street, Toronto, ON, M5G 1L7 Canada; 3 Princess Margaret Genomics Centre, 101 College Street, Toronto, ON, M5G 1L7 Canada; 4 Princess Margaret Cancer Centre, University Health Network, 101 College Street, PMCRT 11-313, Toronto, ON, M5G 1L7 Canada; \*Authors contribute equally__

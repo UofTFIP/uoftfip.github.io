@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B22 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B22
+
 **<sup>1,2</sup>Alexandre Guet-McCreight**, <sup>3,4</sup>Lisa Topolnik, <sup>1,5,2</sup>Frances K. Skinner
 
 __1 Krembil Research Institute, University Health Network; 2 Dept. of Physiology, University of Toronto; 3 Centre de recherche de l’institut universitaire en santé mentale de Québec, Université Laval; 4 Biochemistry, Microbiology and Bioinformatics, Université Laval; 5 Medicine (Neurology), University of Toronto__

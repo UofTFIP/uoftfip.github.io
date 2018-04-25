@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B20 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B20
+
 **<sup>1</sup>Arsène Pinguelo**, <sup>1</sup>Sean C. Haffey, <sup>1</sup>Irene Lecker, <sup>1</sup>Yu-Feng Xie, <sup>1</sup>Dian-Shi Wang, <sup>1,2,3</sup>Beverley A. Orser
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Anesthesia, University of Toronto; 3 Department of Anesthesia, Sunnybrook Health Sciences Centre__

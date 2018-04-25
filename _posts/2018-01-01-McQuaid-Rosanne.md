@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R6 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R6
+
 **<sup>1,2,3</sup>Rosanne McQuaid**, <sup>1,2</sup>Kyunga Kim, <sup>2</sup>Elina Kadriu, <sup>1</sup>Nicole Zhang, <sup>1</sup>Taline Naranian, <sup>3</sup>Razqallah Hakem, <sup>1,2,4</sup>Andrea Jurisicova
 
 __1 Dept. of Physiology, University of Toronto; 2 Lunenfeld-Tanenbaum Research Institute; 3 University Health Network; 4 Obstetrics & Gynaecology, University of Toronto__

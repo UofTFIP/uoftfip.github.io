@@ -6,9 +6,11 @@ category: abstracts
 platform: "endo"
 subtitle: "Zivit Fesler, Patricia L Brubaker"
 tags: oral endo
-session_id: 3.2 Oral 3
+session_id: 3.2 Oral_3
 visible: true
 ---
+Oral_3 - 3.2
+
 **<sup>1</sup>Zivit Fesler**, <sup>1,2</sup>Patricia L Brubaker
 
 __1 Department of Physiology, University of Toronto; 2 Department of Medicine, University of Toronto__

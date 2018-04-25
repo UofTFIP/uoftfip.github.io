@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B25 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B25
+
 **<sup>1,2</sup>Sonja Stojanovski**, <sup>3,4</sup>Arash Nazeri, <sup>5</sup>Christian Lepage, <sup>6,7,8</sup>Aristotle Voineskos, <sup>1,2</sup>Anne L Wheeler
 
 __1. Neuroscience and Mental Health Program, Hospital for Sick Children, Toronto, Ontario; 2. Department of Physiology, University of Toronto, Toronto, Ontario; 3. Iran/Mallinckrodt Institute of Radiology, Tehran, Iran; 4.  Washington University School of Medicine, St. Louis, MO, USA; 5. Toronto Rehabilitation Institute, Toronto, Ontario; 6. Campbell Family Mental Health Institute, Centre for Addiction and Mental Health, Toronto, Ontario. 7. Institute of Medical Science, University of Toronto, Toronto, Ontario; 8. Department of Psychiatry, University of Toronto, Toronto, Ontario__

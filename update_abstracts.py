@@ -70,11 +70,15 @@ class Abstract(Attendee):
         Attendee.__init__(self, first, last, email, status, platform, platform_code, position)
         #false set to visible is false, true if visible true
         self.pending = self.status.lower() != 'pending'
-        self.session = session
+        if type(session) == float:
+            self.session = ''
+        else:
+            self.session = session
+
         if ampm in ['1','2']:
             self.poster = "Poster_Session_1" if ampm == 1 else "Poster_Session_2"
         elif ampm in ['Oral 1', 'Oral 2', 'Oral 3']:
-            self.poster = ampm
+            self.poster = "_".join(ampm.split())
         else:
             self.poster = ''
         #presentation preference
@@ -125,7 +129,7 @@ session_id: {} {}
 visible: {}
 ---
 '''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, self.poster, str(self.pending).lower())
-        self.post = self.header + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
+        self.post = self.header + self.poster + " - " + self.session + "\n\n" + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
         self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"
         self.short = unicode(self.short)

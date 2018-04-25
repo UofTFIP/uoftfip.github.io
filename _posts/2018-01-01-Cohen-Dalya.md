@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B8 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B8
+
 **<sup>1,2,3</sup>Dalya Cohen**, <sup>1,2</sup>Zheng-Ping Jia, <sup>1,3</sup>Graham Collingridge
 
 __1 Dept. of Physiology, University of Toronto; 2 Neurosciences & Mental Health, Sick Kids Hospital; 3 Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital.__

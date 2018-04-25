@@ -9,6 +9,8 @@ tags: poster cardio
 session_id: C6 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - C6
+
 **<sup>1,2</sup>Dylan Langburt**, <sup>1,2,3</sup>Scott Heximer
 
 __1 Department of Physiology, University of Toronto Faculty of Medicine; 2 Translational Biology and Engineering Program, Ted Rogers Centre for Heart Research; 3 Heart and Stroke/Richard Lewar Centre of Excellence in Cardiovascular Research__

@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B15 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B15
+
 **<sup>1</sup>Shahin Khodaei**, <sup>1</sup>Yu-Feng Xie, <sup>1</sup>Dian-Shi Wang, <sup>1,2,3</sup>Beverley Orser
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Anesthesia, University of Toronto; 3 Dept. of Anesthesia, Sunnybrook Hospital__

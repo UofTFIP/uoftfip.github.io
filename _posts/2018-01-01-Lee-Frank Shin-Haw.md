@@ -6,9 +6,11 @@ category: abstracts
 platform: "cardio"
 subtitle: "Shin-Haw Lee, Sina Hadipour-Lakmehsari, Natalie Gibb, Allen C.T. Teng, Tetsuaki Miyake, Jake Cosme, Jessica C. Yu, Peter Liu, Filio Billia, Rodrigo Fernandez-Gonzalez, Igor Stagljar, Parveen Sharma, Thomas Kislinger, Ian C. Scott, Anthony O. Gramolini"
 tags: oral cardio
-session_id: 3.1 Oral 3
+session_id: 3.1 Oral_3
 visible: true
 ---
+Oral_3 - 3.1
+
 **<sup>1,2</sup>Shin-Haw Lee**, <sup>1,2</sup>Sina Hadipour-Lakmehsari, <sup>1,3,4</sup>Natalie Gibb, <sup>1,2</sup>Allen C.T. Teng, <sup>2,11</sup>Tetsuaki Miyake, <sup>1,2</sup>Jake Cosme, <sup>1,7</sup>Jessica C. Yu, <sup>5</sup>Peter Liu, <sup>8</sup>Filio Billia, <sup>1,3,7,10</sup>Rodrigo Fernandez-Gonzalez, <sup>6</sup>Igor Stagljar, <sup>2,12</sup>Parveen Sharma, <sup>9</sup>Thomas Kislinger, <sup>3,4</sup>Ian C. Scott, <sup>1,2</sup>Anthony O. Gramolini
 
 __1 Translational Biology and Engineering Program, Ted Rogers Centre for Heart Research, Toronto, Ontario, Canada M5G 1M1; 2 Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada M5S 1M8; 3 Program in Developmental and Stem Cell Biology, The Hospital for Sick Children, Toronto, Ontario, Canada M5G 1X8; 4 Department of Molecular Genetics, Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada M5S 1M8; 5 Ottawa Heart Institute, Ottawa, Ontario, Canada K1Y 4W7; 6 Department of Biochemistry, Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada M5S 1M8; 7 Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada M5S 3G9; 8 Toronto General Research Institute, University Health Network, Toronto, Ontario, Canada M5G 2C4; 9 Princess Margaret Cancer Centre, Toronto, Ontario, Canada M5G 1L7; 10 Department of Cell and Systems Biology, University of Toronto, Toronto, Ontario, Canada M5S 3G5__

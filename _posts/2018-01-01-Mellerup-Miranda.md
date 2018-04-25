@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B24 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B24
+
 **<sup>1,2</sup>Miranda Mellerup**, <sup>2</sup>Lisa Gazdzinski, <sup>2,3</sup>John Sled, <sup>1,2</sup>Anne Wheeler
 
 __1 Department of Physiology, University of Toronto; 2 Neurosciences & Mental Health, Hospital for Sick Children; 3 Department of Medical Biophysics, University of Toronto__

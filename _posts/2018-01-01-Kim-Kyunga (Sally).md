@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R3 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R3
+
 **<sup>1,2</sup>Kyunga Kim**, <sup>1,2,3</sup>Andrea Jurisicova
 
 __1 Dept. of Physiology, University of Toronto; 2 Lunenfeld-Tananbeum Research Institute, Sinai Health System, Toronto, Canada, 3 Dept. of Obstetrics and Gynecology, University of Toronto, Toronto, ON, Canada__

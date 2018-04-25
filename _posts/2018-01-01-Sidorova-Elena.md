@@ -6,9 +6,11 @@ category: abstracts
 platform: "neuro"
 subtitle: "Elena Sidorova, Richard Logan, James Eubanks"
 tags: oral neuro
-session_id: 1.2 Oral 1
+session_id: 1.2 Oral_1
 visible: true
 ---
+Oral_1 - 1.2
+
 **<sup>1,2,3</sup>Elena Sidorova**, <sup>2</sup>Richard Logan, <sup>1,2,3</sup>James Eubanks
 
 __1 Dept. of Physiology, University of Toronto; 2 Div. of Genetics and Development, Krembil Research Institute; 3 Institute of Medical Science, University of Toronto__

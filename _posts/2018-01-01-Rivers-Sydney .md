@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E12 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E12
+
 **<sup>1</sup>Sydney Rivers**, <sup>1</sup>Lucy Shu Nga Yeung, <sup>1</sup>Yusaku Mori, <sup>1</sup>Kenny Chan, <sup>2</sup>Dana Philpott, <sup>1</sup>Amira Klip, <sup>1</sup>and Adria Giacca
 
 __1 Department of Physiology, University of Toronto; 2 Department of Immunology, University of Toronto__

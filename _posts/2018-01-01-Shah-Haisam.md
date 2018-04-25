@@ -9,6 +9,8 @@ tags: poster cardio
 session_id: C3 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - C3
+
 **<sup>1,2</sup>Haisam Shah**, <sup>1,3</sup>Shafkat Choudhury, <sup>1</sup>Hangjun Zhang, <sup>1</sup>Meghan McFadden, <sup>1</sup>Yuqing Zhou, <sup>1,2,4</sup>Anthony Gramolini, <sup>1,2,4</sup>Scott Heximer
 
 __1 Translational Biology and Engineering Program, Ted Rogers Centre for Heart Research; 2 Department of Physiology, University of Toronto; 3 Department of Chemical Engineering & Applied Chemistry, University of Toronto, 4 Heart and Stroke/Richard Lewar Centre of Excellence in Cardiovascular Research__

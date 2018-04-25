@@ -9,6 +9,8 @@ tags: poster cardio
 session_id: C4 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - C4
+
 **<sup>1,2</sup>Xavier Lee**, <sup>1,2</sup>Allen C.T. Teng, <sup>1,2</sup>Anthony Gramolini
 
 __1 Dept. of Physiology, University of Toronto; 2 Translational Biology and Engineering Program, Ted Rogers Centre for Heart Research__

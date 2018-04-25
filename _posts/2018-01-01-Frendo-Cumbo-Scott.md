@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E11 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E11
+
 **<sup>1,2</sup>Scott Frendo-Cumbo**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1,3</sup>John H Brumell, <sup>1,2</sup>Amira Klip
 
 __1 Cell Biology, Hospital for Sick Children; 2 Department of Physiology, University of Toronto; 3 Molecular Genetics, University of Toronto, Toronto, ON, Canada__

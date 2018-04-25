@@ -6,9 +6,11 @@ category: abstracts
 platform: "neuro"
 subtitle: "Yangning Lu, Asuka Guan, Daniel Witvliet, Ben Mulcahy, Jin Meng, Jun Meng, Quan Wen, Aravinthan Samuel, Mei Zhen"
 tags: oral neuro
-session_id: 3.4 Oral 3
+session_id: 3.4 Oral_3
 visible: true
 ---
+Oral_3 - 3.4
+
 **<sup>1,3</sup>Yangning Lu**, <sup>1,3</sup>Asuka Guan, <sup>2,3</sup>Daniel Witvliet, <sup>3</sup>Ben Mulcahy, <sup>3</sup>Jin Meng, <sup>1,3</sup>Jun Meng, <sup>4</sup>Quan Wen, <sup>5</sup>Aravinthan Samuel, <sup>1,2,3</sup>Mei Zhen
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Molecular Genetics, University of Toronto; 3 Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital; 4 School of Life Sciences, University of Science and Technology, China; 5 Center for Brain Science, Harvard University, USA__

@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E15 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E15
+
 **<sup>1,2</sup>Paige V. Bauer**, <sup>1</sup>Frank A. Duca, <sup>1</sup>T. M. Zaved Waise, <sup>1</sup>Helen J. Dranse, <sup>1,2</sup>Brittany A. Rasmussen, <sup>4</sup>Akshita Puri, <sup>1</sup>Mozhgan Rasti, <sup>2,4,5</sup>Catherine A. O’Brien, <sup>1,2,3,6</sup>Tony K. T. Lam
 
 __1 Toronto General Research Institute and Department of Medicine, UHN, Toronto, ON; 2 Department of Physiology, University of Toronto, Toronto, ON; 3 Department of Medicine, University of Toronto, Toronto, ON; 4 Princess Margaret Cancer Centre, UHN, Toronto, ON; 5 Department of Pathobiology, University of Toronto, Toronto, ON; 6 Banting and Best Diabetes Centre, University of Toronto, Toronto, ON__

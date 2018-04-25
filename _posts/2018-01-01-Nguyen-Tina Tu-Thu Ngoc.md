@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R7 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R7
+
 **<sup>1,2</sup>Tina Tu-Thu Ngoc Nguyen**, <sup>1</sup>Stewart J. Russell, <sup>1,2,3,4,5</sup>Clifford Librach
 
 __1 CReATe Fertility Centre, Toronto, ON, Canada; 2 Dept. of Physiology, University of Toronto, ON, Canada; 3 Dept. of Obstetrics and Gynaecology, University of Toronto, ON, Canada; 4 Institute of Medical Science, University of Toronto, ON, Canada; 5 Dept. of Gynaecology, Women’s College Hospital, Ontario, Canada__

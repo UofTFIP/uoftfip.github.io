@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B13 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B13
+
 **<sup>1</sup>Sami Tabbarah**, <sup>2</sup>Jason Charish, <sup>2</sup>Shuning Li, <sup>2</sup>Yui Yin, <sup>3</sup>Erika Tavares, <sup>3</sup>Ajoy Vincent, <sup>1,\*</sup>Elise Heon, <sup>1,\*</sup>Philippe Monnier
 
 __1 Department of Physiology, University of Toronto; 2 Program of Genetics and Genome Biology, The Hospital for Sick Children; 3 Department of Ophthalmology and Vision Sciences, The Hospital for Sick Children

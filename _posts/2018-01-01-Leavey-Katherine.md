@@ -9,6 +9,8 @@ tags: poster repro
 session_id: R1 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - R1
+
 **<sup>1</sup>Katherine Leavey**, <sup>1</sup>Isaac Gibbs, <sup>2</sup>Samantha Benton, <sup>3</sup>David Grynspan, <sup>2,4</sup>Shannon Bainbridge, <sup>1,5</sup>Brian Cox
 
 __1 Dept. of Physiology, University of Toronto, Toronto, ON, Canada; 2 Dept. of Cellular and Molecular Medicine, University of Ottawa, Ottawa, ON, Canada; 3 Dept. of Pathology and Laboratory Medicine, University of Ottawa, Ottawa, ON, Canada; 4 Interdisciplinary School of Health Sciences, University of Ottawa, Ottawa, ON, Canada; 5 Dept. of Obstetrics and Gynaecology, University of Toronto, Toronto, ON, Canada__

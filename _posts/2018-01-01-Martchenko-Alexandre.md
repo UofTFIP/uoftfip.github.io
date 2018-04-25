@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E10 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E10
+
 **<sup>1</sup>Alexandre Martchenko**, <sup>1</sup>Matthew Clemenzi, <sup>Gurges,1</sup>Patrick, <sup>1,2</sup>Patricia L. Brubaker
 
 __1 Department of Physiology, University of Toronto; 2 Department of Medicine, University of Toronto__

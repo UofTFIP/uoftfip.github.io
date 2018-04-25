@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E3 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E3
+
 **<sup>1</sup>Neruja Loganathan**, <sup>1</sup>Emma McIlwraith, <sup>1,2,3</sup>Denise Belsham
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Medicine, University of Toronto; 3 Dept. of Obstetrics and Gynaecology, University of Toronto, ON, Canada__

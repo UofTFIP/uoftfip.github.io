@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E8 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E8
+
 **<sup>1</sup>Jhenielle Campbell**, <sup>1,2</sup>Patricia Brubaker
 
 __1 Dept. of Physiology, University of Toronto; 2 Dept. of Medicine, University of Toronto__

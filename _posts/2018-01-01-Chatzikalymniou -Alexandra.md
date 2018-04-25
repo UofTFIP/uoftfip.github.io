@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B19 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B19
+
 **<sup>1,2</sup>Alexandra Chatzikalymniou**, <sup>2,1</sup>Frances Skinner
 
 __1 Dept. of Physiology, University of Toronto; 2 Krembil Research Institute,__

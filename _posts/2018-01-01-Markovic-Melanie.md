@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E7 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E7
+
 **<sup>1</sup>Melanie A Markovic**, <sup>1,2</sup>Patricia L Brubaker
 
 __1 Departments of Physiology; 2 Medicine, University of Toronto, 1 King's College Circle, Toronto, Ontario, M5S 1A8 Canada,__

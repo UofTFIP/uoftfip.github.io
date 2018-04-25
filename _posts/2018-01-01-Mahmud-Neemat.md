@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B11 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B11
+
 **<sup>1,4+</sup>Neemat Mahmud**, <sup>1+</sup>Mekayla A. Storer, <sup>1</sup>Scott A. Yuzwa, <sup>1,2</sup>Michael J. Borrett, <sup>1</sup>Dina Karamboulas, <sup>1,2,3</sup>David R. Kaplan, <sup>1,2,3,4</sup>Freda D. Miller
 
 __+ These authors contributes equally; 1 Program in Neurosciences and Mental Health, Hospital for Sick Children, Canada M5G 1L7; 2 Institute of Medical Sciences, University of Toronto; 3 Department of Molecular Genetics, University of Toronto; 4 Department of Physiology, University of Toronto, Toronto, Canada M5G 1A8__

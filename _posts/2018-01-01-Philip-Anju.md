@@ -9,6 +9,8 @@ tags: poster cardio
 session_id: C10 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - C10
+
 **<sup>1,2,3,4</sup>Anju M Philip**, <sup>2,3</sup>Patricia Gali, <sup>2,3</sup>Yuexin Shan, <sup>2,3</sup>Claudia dosSantos, <sup>1,2,3,4</sup>Xiao-Yan Wen
 
 __1. Dept. of Physiology, University of Toronto; 2. Keenan Research Centre for Biomedical Science and Li Ka Shing Knowledge Institute of St. Michael's Hospital, Toronto; 3. Institute of Medical Sciences, University of Toronto; 4. Zebrafish Centre for Advanced Drug Discovery, St. Michael's Hospital, Toronto__

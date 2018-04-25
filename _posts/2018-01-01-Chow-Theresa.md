@@ -6,9 +6,11 @@ category: abstracts
 platform: "repro"
 subtitle: "Theresa Chow, Jennifer Whiteley, Ian Rogers"
 tags: oral repro
-session_id: 3.3 Oral 3
+session_id: 3.3 Oral_3
 visible: true
 ---
+Oral_3 - 3.3
+
 **<sup>1,2</sup>Theresa Chow**, <sup>2</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 
 __1 Department of Physiology, Faculty of Medicine, University of Toronto, Ontario, Canada; 2 Lunenfeld Tanenbaum Research Institute, Mount Sinai Hospital, Ontario, Canada; 3 Department of Obstetrics and Gynecology, Faculty of Medicine, University of Toronto, Ontario, Canada__

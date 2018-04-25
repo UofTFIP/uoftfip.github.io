@@ -9,6 +9,8 @@ tags: poster endo
 session_id: E5 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - E5
+
 **<sup>1</sup>Andrew Biancolin**, <sup>1</sup>Emilia Mitova, <sup>1,2</sup>Patricia Brubaker
 
 __1 Department of Physiology, University of Toronto; 2 Department of Medicine, University of Toronto; __

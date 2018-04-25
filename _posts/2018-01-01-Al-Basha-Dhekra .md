@@ -9,6 +9,8 @@ tags: poster neuro
 session_id: B17 Poster_Session_2
 visible: true
 ---
+Poster_Session_2 - B17
+
 **<sup>1,2</sup>Dhekra Al-Basha**, <sup>1-3</sup>Milad Lankarany, <sup>1-3</sup>Stephanie Ratté, <sup>1-3</sup>Steven A. Prescott
 
 __1 Neurosciences and Mental Health, The Hospital for Sick Children, Toronto, ON, Canada; 2 Department of Physiology, University of Toronto, Toronto, ON, Canada; 3 Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, ON, Canada__
