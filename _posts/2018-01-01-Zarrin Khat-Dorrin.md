@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C8 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C8
+Poster Session 2 - C8
 
 **<sup>1</sup>Dorrin Zarrin Khat**, <sup>4</sup>Abdul Momen, <sup>4</sup>Muhammad A. Siraj, <sup>2</sup>Sina Hadipour-Lakmehsari, <sup>4</sup>Mark J. Chandy, <sup>1-5.</sup>Mansoor Husain
 

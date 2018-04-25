@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E1 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E1
+Poster Session 2 - E1
 
 **<sup>1</sup>Ashkan Salehi**, <sup>1,2,3</sup>Denise D. Belsham
 

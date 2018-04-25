@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B25 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B25
+Poster Session 2 - B25
 
 **<sup>1,2</sup>Sonja Stojanovski**, <sup>3,4</sup>Arash Nazeri, <sup>5</sup>Christian Lepage, <sup>6,7,8</sup>Aristotle Voineskos, <sup>1,2</sup>Anne L Wheeler
 

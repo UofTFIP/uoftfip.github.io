@@ -9,7 +9,7 @@ tags: poster repro
 session_id: R9 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R9
+Poster Session 2 - R9
 
 **<sup>1,2</sup>Tali Farine**, <sup>2,3</sup>Oksana Shynlova, <sup>1,2,3,4</sup>Stephen Lye
 

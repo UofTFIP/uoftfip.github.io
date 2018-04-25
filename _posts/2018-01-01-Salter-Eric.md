@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B10 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B10
+Poster Session 2 - B10
 
 **<sup>1,2</sup>Eric W Salter**, <sup>1,2</sup>Sun-Lim Choi, <sup>1,2</sup>John Georgiou, <sup>1,2</sup>Graham L Collingridge
 

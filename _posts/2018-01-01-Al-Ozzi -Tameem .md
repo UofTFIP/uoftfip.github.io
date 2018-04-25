@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B3 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B3
+Poster Session 2 - B3
 
 **<sup>1,3</sup>Tameem M. Alozzi**, <sup>5</sup>Luis F. Botero Posada, <sup>5</sup>Adriana L. Lopez Rios, <sup>1,2,3,4,5</sup>William D. Hutchison
 

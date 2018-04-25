@@ -9,7 +9,7 @@ tags: poster repro
 session_id: R1 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R1
+Poster Session 2 - R1
 
 **<sup>1</sup>Katherine Leavey**, <sup>1</sup>Isaac Gibbs, <sup>2</sup>Samantha Benton, <sup>3</sup>David Grynspan, <sup>2,4</sup>Shannon Bainbridge, <sup>1,5</sup>Brian Cox
 

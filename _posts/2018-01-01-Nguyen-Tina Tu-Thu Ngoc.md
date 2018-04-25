@@ -9,7 +9,7 @@ tags: poster repro
 session_id: R7 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R7
+Poster Session 2 - R7
 
 **<sup>1,2</sup>Tina Tu-Thu Ngoc Nguyen**, <sup>1</sup>Stewart J. Russell, <sup>1,2,3,4,5</sup>Clifford Librach
 

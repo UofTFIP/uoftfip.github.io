@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C10 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C10
+Poster Session 2 - C10
 
 **<sup>1,2,3,4</sup>Anju M Philip**, <sup>2,3</sup>Patricia Gali, <sup>2,3</sup>Yuexin Shan, <sup>2,3</sup>Claudia dosSantos, <sup>1,2,3,4</sup>Xiao-Yan Wen
 

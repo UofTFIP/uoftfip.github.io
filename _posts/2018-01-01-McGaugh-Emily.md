@@ -9,7 +9,7 @@ tags: oral endo
 session_id: 1.3 Oral_1
 visible: true
 ---
-Oral_1 - 1.3
+Oral 1 - 1.3
 
 **<sup>1,2,3,4</sup>Emily McGaugh**, <sup>5</sup>Simon Kelley, <sup>6</sup>April Craft, <sup>1,2,3,4</sup>Maria Cristina Nostro
 

@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E7 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E7
+Poster Session 2 - E7
 
 **<sup>1</sup>Melanie A Markovic**, <sup>1,2</sup>Patricia L Brubaker
 

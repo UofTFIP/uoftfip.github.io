@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B23 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B23
+Poster Session 2 - B23
 
 **<sup>1</sup>Vijay Narasimhan**, <sup>2</sup>Jane Foster, <sup>1,2</sup>Sidney Kennedy, <sup>1,3</sup>Xiao-Yan Wen
 

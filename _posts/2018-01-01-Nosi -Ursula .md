@@ -9,7 +9,7 @@ tags: oral repro
 session_id: 2.4 Oral_2
 visible: true
 ---
-Oral_2 - 2.4
+Oral 2 - 2.4
 
 **<sup>1</sup>Ursula Nosi**, <sup>2</sup>Fredrik Lanner, <sup>1</sup>Brian Cox
 

@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B8 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B8
+Poster Session 2 - B8
 
 **<sup>1,2,3</sup>Dalya Cohen**, <sup>1,2</sup>Zheng-Ping Jia, <sup>1,3</sup>Graham Collingridge
 

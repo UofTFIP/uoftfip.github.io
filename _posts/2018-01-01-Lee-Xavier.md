@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C4 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C4
+Poster Session 2 - C4
 
 **<sup>1,2</sup>Xavier Lee**, <sup>1,2</sup>Allen C.T. Teng, <sup>1,2</sup>Anthony Gramolini
 

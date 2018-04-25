@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B16 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B16
+Poster Session 2 - B16
 
 **<sup>1</sup>Sridevi Venkatesan**, <sup>1</sup>Daniel W. Sparks, <sup>1,2</sup>Evelyn K. Lambe
 

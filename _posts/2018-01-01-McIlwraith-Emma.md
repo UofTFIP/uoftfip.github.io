@@ -9,7 +9,7 @@ tags: poster repro
 session_id: R2 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R2
+Poster Session 2 - R2
 
 **<sup>1</sup>Emma McIlwraith**, <sup>1</sup>Neruja Loganathan, <sup>1,2</sup>Denise D. Belsham
 

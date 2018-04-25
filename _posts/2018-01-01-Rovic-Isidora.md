@@ -9,7 +9,7 @@ tags: poster repro
 session_id: R5 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R5
+Poster Session 2 - R5
 
 **<sup>1,2</sup>Isidora Rovic**, <sup>2</sup>Han Li, <sup>1,2</sup>Katherine Szelag, <sup>2,3</sup>Andrea Jurisicova
 

@@ -10,7 +10,7 @@ tags: poster repro
 session_id: R8 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R8
+Poster Session 2 - R8
 
 **<sup>1,2</sup>Justin Rondeau**, <sup>1</sup>Lubna Nadeem, <sup>1,2,3</sup>Stephen Lye
 

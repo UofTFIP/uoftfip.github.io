@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E9 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E9
+Poster Session 2 - E9
 
 **<sup>1</sup>Liwei Zhou**, <sup>1</sup>June Guo, <sup>1</sup>Hangjun Zhang, <sup>1</sup>Scott Heximer, <sup>1</sup>Adria Giacca
 

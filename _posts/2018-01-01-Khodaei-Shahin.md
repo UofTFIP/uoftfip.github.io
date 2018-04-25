@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B15 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B15
+Poster Session 2 - B15
 
 **<sup>1</sup>Shahin Khodaei**, <sup>1</sup>Yu-Feng Xie, <sup>1</sup>Dian-Shi Wang, <sup>1,2,3</sup>Beverley Orser
 

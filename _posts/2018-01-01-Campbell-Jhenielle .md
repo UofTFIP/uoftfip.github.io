@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E8 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E8
+Poster Session 2 - E8
 
 **<sup>1</sup>Jhenielle Campbell**, <sup>1,2</sup>Patricia Brubaker
 

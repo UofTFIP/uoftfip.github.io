@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B14 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B14
+Poster Session 2 - B14
 
 **<sup>1</sup>Riya George**, <sup>1</sup>Michelle French
 

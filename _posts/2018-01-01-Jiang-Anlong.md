@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B18 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B18
+Poster Session 2 - B18
 
 **<sup>1</sup>Anlong Jiang**, <sup>1,2,3</sup>Fang Liu
 

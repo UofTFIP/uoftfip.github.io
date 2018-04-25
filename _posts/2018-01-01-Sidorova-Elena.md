@@ -9,7 +9,7 @@ tags: oral neuro
 session_id: 1.2 Oral_1
 visible: true
 ---
-Oral_1 - 1.2
+Oral 1 - 1.2
 
 **<sup>1,2,3</sup>Elena Sidorova**, <sup>2</sup>Richard Logan, <sup>1,2,3</sup>James Eubanks
 

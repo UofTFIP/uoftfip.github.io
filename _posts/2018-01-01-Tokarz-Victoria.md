@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E2 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E2
+Poster Session 2 - E2
 
 **<sup>1,2</sup>Victoria Tokarz**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1</sup>Zhi Liu, <sup>1,2</sup>Amira Klip
 

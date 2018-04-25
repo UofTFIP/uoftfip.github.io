@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C6 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C6
+Poster Session 2 - C6
 
 **<sup>1,2</sup>Dylan Langburt**, <sup>1,2,3</sup>Scott Heximer
 

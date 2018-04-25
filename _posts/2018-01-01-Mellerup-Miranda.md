@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B24 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B24
+Poster Session 2 - B24
 
 **<sup>1,2</sup>Miranda Mellerup**, <sup>2</sup>Lisa Gazdzinski, <sup>2,3</sup>John Sled, <sup>1,2</sup>Anne Wheeler
 

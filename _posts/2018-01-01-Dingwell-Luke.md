@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C5 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C5
+Poster Session 2 - C5
 
 **<sup>1-2</sup>Luke S Dingwell**, <sup>1,3</sup>Eric A Shikatani, <sup>3</sup>Rickvinder Besla, <sup>4</sup>Andrew S Levy, <sup>4</sup>Danny Dinh, <sup>1</sup>Abdul Momen, <sup>4</sup>Hangjun Zhang, <sup>1</sup>Talat Afroze, <sup>5</sup>Michelle B Chen, <sup>4</sup>Nicholas Maksimowski, <sup>5</sup>Craig A Simmons, <sup>1</sup>Filio Billia, <sup>6</sup>Jennifer L Gommerman, <sup>3</sup>Rohan John, <sup>4</sup>Scott  Heximer, <sup>4</sup>James Scholey, <sup>4</sup>Steffen-Sebastian Bolz, <sup>3,6</sup>Clinton Robbins, <sup>1-4,7\*</sup>Mansoor Husain
 

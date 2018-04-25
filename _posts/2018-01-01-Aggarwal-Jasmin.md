@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B2 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B2
+Poster Session 2 - B2
 
 **<sup>1</sup>Jasmin A. Aggarwal**, <sup>2</sup>Hattie Liu, <sup>2,3</sup>Gaspard Montandon, <sup>1,2</sup>Richard L. Horner
 

@@ -9,7 +9,7 @@ tags: poster repro
 session_id: R12 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - R12
+Poster Session 2 - R12
 
 **<sup>1,2</sup>Aisha Mohamed**, <sup>1,2</sup>Theresa Chow, <sup>1,2</sup>Tonya Bongolan, <sup>1,2</sup>Amanda Fantin, <sup>1</sup>Jennifer Whiteley, <sup>1,2,3</sup>Ian Rogers
 

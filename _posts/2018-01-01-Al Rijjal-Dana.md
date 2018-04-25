@@ -9,7 +9,7 @@ tags: oral endo
 session_id: 2.3 Oral_2
 visible: true
 ---
-Oral_2 - 2.3
+Oral 2 - 2.3
 
 **<sup>1</sup>Dana Al Rijjal**, <sup>1</sup>Ying Liu, <sup>1</sup>Michael Wheeler
 

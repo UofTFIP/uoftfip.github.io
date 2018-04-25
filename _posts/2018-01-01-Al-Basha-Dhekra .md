@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B17 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B17
+Poster Session 2 - B17
 
 **<sup>1,2</sup>Dhekra Al-Basha**, <sup>1-3</sup>Milad Lankarany, <sup>1-3</sup>Stephanie Ratté, <sup>1-3</sup>Steven A. Prescott
 

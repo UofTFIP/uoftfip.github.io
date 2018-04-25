@@ -9,7 +9,7 @@ tags: oral endo
 session_id: 3.2 Oral_3
 visible: true
 ---
-Oral_3 - 3.2
+Oral 3 - 3.2
 
 **<sup>1</sup>Zivit Fesler**, <sup>1,2</sup>Patricia L Brubaker
 

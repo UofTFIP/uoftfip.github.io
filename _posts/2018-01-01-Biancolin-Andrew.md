@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E5 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E5
+Poster Session 2 - E5
 
 **<sup>1</sup>Andrew Biancolin**, <sup>1</sup>Emilia Mitova, <sup>1,2</sup>Patricia Brubaker
 

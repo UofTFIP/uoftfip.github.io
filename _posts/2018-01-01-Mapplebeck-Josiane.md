@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B12 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B12
+Poster Session 2 - B12
 
 **<sup>1-3</sup>Josiane C.S. Mapplebeck**, <sup>4</sup>Louis-Etienne Lorenzo, <sup>1</sup>Kwan Lee, <sup>4,5</sup>Yves De Koninck, <sup>1-3,6</sup>Steve A. Prescott, <sup>1-3.</sup>Michael W. Salter
 

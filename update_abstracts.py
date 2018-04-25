@@ -129,7 +129,7 @@ session_id: {} {}
 visible: {}
 ---
 '''.format(self.session, self.title, self.platform_code, self.just_authors_poster, self.tags, self.session, self.poster, str(self.pending).lower())
-        self.post = self.header + self.poster + " - " + self.session + "\n\n" + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
+        self.post = self.header + " ".join(self.poster.split("_")) + " - " + self.session + "\n\n" + self.authors_parsed + "\n\n" + self.affiliations_parsed + "\n" + self.abstract
         self.post = unicode(self.post)
         self.short = '**{}. {}**'.format(self.session, self.title) + "  \n" + self.just_authors + "\n\n\n"
         self.short = unicode(self.short)

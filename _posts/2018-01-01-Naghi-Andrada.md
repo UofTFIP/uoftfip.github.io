@@ -9,7 +9,7 @@ tags: poster neuro
 session_id: B9 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - B9
+Poster Session 2 - B9
 
 **<sup>1</sup>Andrada Naghi**, <sup>1</sup>Güínever Eustáquio Do Império, <sup>1,2,3</sup>Stephen G Matthews
 

@@ -9,7 +9,7 @@ tags: poster endo
 session_id: E11 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - E11
+Poster Session 2 - E11
 
 **<sup>1,2</sup>Scott Frendo-Cumbo**, <sup>1</sup>Javier Jaldin-Fincati, <sup>1,3</sup>John H Brumell, <sup>1,2</sup>Amira Klip
 

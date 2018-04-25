@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C3 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C3
+Poster Session 2 - C3
 
 **<sup>1,2</sup>Haisam Shah**, <sup>1,3</sup>Shafkat Choudhury, <sup>1</sup>Hangjun Zhang, <sup>1</sup>Meghan McFadden, <sup>1</sup>Yuqing Zhou, <sup>1,2,4</sup>Anthony Gramolini, <sup>1,2,4</sup>Scott Heximer
 

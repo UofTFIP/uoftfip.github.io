@@ -9,7 +9,7 @@ tags: poster cardio
 session_id: C2 Poster_Session_2
 visible: true
 ---
-Poster_Session_2 - C2
+Poster Session 2 - C2
 
 **<sup>1</sup>Patrick Meagher BSc (Honours)**, <sup>2</sup>Robert Civitarese MSc, <sup>3</sup>Jean-Francios Desjardin MSc, <sup>4</sup>Golam Kabir Msc MD, <sup>1,2,3,4,5</sup>Kim Connelly MBBS PhD
 
