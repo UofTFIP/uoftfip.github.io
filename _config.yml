@@ -38,7 +38,7 @@ defaults:
       header-img: "img/banner.jpg"
 
 #FIP Settings
-levels: ['Planning Committee', 'Judges - Abstracts', 'Judges - Presentations', 'GASP']
+levels: ['Planning Committee', 'Judges - Abstracts', 'Judges - Presentations', 'GASP', "Website and Graphics"]
 
 # Prose Settings
 prose:
